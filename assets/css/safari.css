@@ -106,10 +106,10 @@ body.mega-open .mega{display:block}
 .hero-stats .s b{font-family:'Fredoka';font-weight:700;font-size:30px;color:var(--green-deep);display:block;line-height:1}
 .hero-stats .s span{font-size:13px;font-weight:700;color:var(--muted)}
 .hero-art{position:relative}
-.hero-card{position:relative;background:#fff;border-radius:var(--r-lg);box-shadow:var(--shadow-lg);
-  padding:26px;border:1px solid var(--line)}
-.hero-zebra{width:100%;max-width:430px;margin:0 auto;display:block;
-  filter:drop-shadow(0 18px 28px rgba(4,83,42,.25))}
+.hero-card{position:relative;background:transparent;box-shadow:none;border:0;padding:0}
+.hero-zebra{width:100%;max-width:480px;margin:0 auto;display:block;
+  -webkit-mask-image:radial-gradient(76% 76% at 50% 46%,#000 80%,transparent 100%);
+  mask-image:radial-gradient(76% 76% at 50% 46%,#000 80%,transparent 100%)}
 .float{position:absolute;background:#fff;border-radius:14px;box-shadow:var(--shadow);padding:10px 14px;
   font-weight:800;font-size:13px;display:flex;align-items:center;gap:9px;border:1px solid var(--line)}
 .float .e{font-size:22px}
