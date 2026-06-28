@@ -45,7 +45,7 @@ img{display:block;max-width:100%}
 /* ---------- header / nav ---------- */
 .hdr{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);
   border-bottom:1px solid var(--line)}
-.hdr-row{display:flex;align-items:center;gap:24px;height:84px}
+.hdr-row{display:flex;align-items:center;gap:24px;height:160px}
 .brand{display:flex;align-items:center;gap:12px}
 .brand img{width:54px;height:54px;object-fit:contain}
 .brand-mark{height:148px;width:auto;display:block}
@@ -409,7 +409,7 @@ body.mega-open .mega{display:block}
   .promo{font-size:10.5px;padding:7px 14px;line-height:1.35}
 
   /* header */
-  .hdr-row{height:60px;gap:11px}
+  .hdr-row{height:96px;gap:11px}
   .brand img{width:42px;height:42px}
   .brand-mark{height:84px}
   .brand .name{font-size:20px}.brand .name span{font-size:9px;letter-spacing:.1em}
