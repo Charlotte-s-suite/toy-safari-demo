@@ -48,7 +48,7 @@ img{display:block;max-width:100%}
 .hdr-row{display:flex;align-items:center;gap:24px;height:84px}
 .brand{display:flex;align-items:center;gap:12px}
 .brand img{width:54px;height:54px;object-fit:contain}
-.brand-mark{height:148px;width:auto;display:block;border-radius:14px;mix-blend-mode:multiply}
+.brand-mark{height:148px;width:auto;display:block}
 .brand .name{font-family:'Fredoka';font-weight:700;font-size:25px;color:var(--green-deep);line-height:.95}
 .brand .name span{display:block;font-family:'Nunito';font-weight:700;font-size:10.5px;letter-spacing:.14em;
   text-transform:uppercase;color:var(--amber-deep)}
