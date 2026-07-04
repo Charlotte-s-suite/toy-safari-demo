@@ -1,0 +1,4856 @@
+{
+ "products": [
+  {
+   "id": "hot-wheels-hot-wheels-chevy-camaro-die-cast-car",
+   "title": "Hot Wheels Chevy Camaro Die-Cast Car",
+   "brand": "Hot Wheels",
+   "category": "diecast",
+   "price": 1.25,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/hot-wheels-hot-wheels-chevy-camaro-die-cast-car.jpg",
+   "shortDesc": "Classic 1:64 die-cast Camaro built for speed and collecting.",
+   "description": "A staple of every toy box, this 1:64 scale Hot Wheels Chevy Camaro is cast in metal with a glossy finish and free-rolling wheels. Race it down the orange track or line it up on the shelf as part of a growing collection.",
+   "specs": {
+    "Format": "Die-cast car",
+    "Scale/Pages": "1:64 scale",
+    "Brand": "Hot Wheels"
+   },
+   "interests": [
+    "vehicles",
+    "trading-cards"
+   ],
+   "skills": [
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "cars",
+    "racing",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 342,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "matchbox-matchbox-land-rover-90-die-cast-vehicle",
+   "title": "Matchbox Land Rover 90 Die-Cast Vehicle",
+   "brand": "Matchbox",
+   "category": "diecast",
+   "price": 1.29,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/matchbox-matchbox-land-rover-90-die-cast-vehicle.jpg",
+   "shortDesc": "Rugged 1:64 die-cast Land Rover for real-world adventures.",
+   "description": "Matchbox recreates the iconic Land Rover 90 in durable die-cast metal at 1:64 scale. With realistic detailing and sturdy construction, it's built for imaginative off-road journeys across the living room floor.",
+   "specs": {
+    "Format": "Die-cast vehicle",
+    "Scale/Pages": "1:64 scale",
+    "Brand": "Matchbox"
+   },
+   "interests": [
+    "vehicles",
+    "outdoors"
+   ],
+   "skills": [
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "cars",
+    "off-road",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 210,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bruder-bruder-case-ih-cvx-170-tractor",
+   "title": "Bruder Case IH CVX 170 Tractor",
+   "brand": "Bruder",
+   "category": "diecast",
+   "price": 39.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3–10 yrs",
+   "image": "assets/img/catalog/bruder-bruder-case-ih-cvx-170-tractor.jpg",
+   "shortDesc": "Big 1:16 farm tractor with steering and detailed cab.",
+   "description": "Bruder's Case IH CVX 170 is a large 1:16 scale tractor engineered for serious play, with working steering, a tilting hood, and a detailed driver's cab. Made in Germany from tough, weatherproof plastic that stands up to indoor and backyard farming.",
+   "specs": {
+    "Format": "Toy tractor",
+    "Scale/Pages": "1:16 scale",
+    "Brand": "Bruder"
+   },
+   "interests": [
+    "vehicles",
+    "construction",
+    "outdoors"
+   ],
+   "skills": [
+    "imagination",
+    "gross-motor",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "farm",
+    "tractor",
+    "vehicles"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 156,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "radio-flyer-radio-flyer-classic-red-wagon",
+   "title": "Radio Flyer Classic Red Wagon",
+   "brand": "Radio Flyer",
+   "category": "diecast",
+   "price": 99.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 18,
+   "ageMaxMonths": 72,
+   "ageLabel": "1.5–6 yrs",
+   "image": "assets/img/catalog/radio-flyer-radio-flyer-classic-red-wagon.jpg",
+   "shortDesc": "The timeless steel pull-wagon for rides and hauling.",
+   "description": "An American classic, the Radio Flyer red wagon is built from seamless steel with a controlled-turning handle and no-scratch edges. Perfect for wagon rides, hauling toys, or backyard adventures that get kids up and moving.",
+   "specs": {
+    "Format": "Ride-on / pull wagon",
+    "Scale/Pages": "Full-size kids wagon",
+    "Brand": "Radio Flyer"
+   },
+   "interests": [
+    "vehicles",
+    "outdoors"
+   ],
+   "skills": [
+    "gross-motor",
+    "social-emotional"
+   ],
+   "themes": [
+    "wagon",
+    "outdoor-play",
+    "classic"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 489,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "tonka-tonka-classic-steel-dump-truck",
+   "title": "Tonka Classic Steel Dump Truck",
+   "brand": "Tonka",
+   "category": "diecast",
+   "price": 34.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/tonka-tonka-classic-steel-dump-truck.jpg",
+   "shortDesc": "Tough steel dump truck built to survive the sandbox.",
+   "description": "The legendary Tonka dump truck is made from rugged steel with a tilting bed and big moving wheels for hauling sand, dirt, and blocks. Nearly indestructible, it's the kind of toy that gets passed down for generations.",
+   "specs": {
+    "Format": "Steel toy truck",
+    "Scale/Pages": "Ride-and-push size",
+    "Brand": "Tonka"
+   },
+   "interests": [
+    "vehicles",
+    "construction"
+   ],
+   "skills": [
+    "gross-motor",
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "construction",
+    "trucks",
+    "sandbox"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 275,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "tonka-tonka-mighty-cherry-picker-truck",
+   "title": "Tonka Mighty Cherry Picker Truck",
+   "brand": "Tonka",
+   "category": "diecast",
+   "price": 29.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/tonka-tonka-mighty-cherry-picker-truck.jpg",
+   "shortDesc": "Utility truck with a raising bucket arm for busy crews.",
+   "description": "This Tonka cherry picker truck features a movable boom and bucket arm for pretend repair and rescue missions. Sturdy build and rolling wheels make it a hard-working addition to any little construction crew.",
+   "specs": {
+    "Format": "Toy utility truck",
+    "Scale/Pages": "Push-along size",
+    "Brand": "Tonka"
+   },
+   "interests": [
+    "vehicles",
+    "construction"
+   ],
+   "skills": [
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "construction",
+    "trucks",
+    "rescue"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 132,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "eric-carle-the-very-hungry-caterpillar",
+   "title": "The Very Hungry Caterpillar",
+   "brand": "Eric Carle",
+   "category": "books",
+   "price": 10.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 60,
+   "ageLabel": "1–5 yrs",
+   "image": "assets/img/catalog/eric-carle-the-very-hungry-caterpillar.jpg",
+   "shortDesc": "Eric Carle's beloved board book of eating and growing.",
+   "description": "Follow the very hungry caterpillar as he nibbles his way through the week and transforms into a beautiful butterfly. Eric Carle's die-cut pages and vibrant collage art make this a treasured first book for tiny hands.",
+   "specs": {
+    "Format": "Board book",
+    "Scale/Pages": "26 pages",
+    "Brand": "Philomel / Eric Carle"
+   },
+   "interests": [
+    "animals",
+    "nature",
+    "reading"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "early-math",
+    "fine-motor"
+   ],
+   "themes": [
+    "counting",
+    "insects",
+    "growth"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 5421,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "margaret-wise-brown-goodnight-moon",
+   "title": "Goodnight Moon",
+   "brand": "Margaret Wise Brown",
+   "category": "books",
+   "price": 8.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 60,
+   "ageLabel": "1–5 yrs",
+   "image": "assets/img/catalog/margaret-wise-brown-goodnight-moon.jpg",
+   "shortDesc": "The classic bedtime lullaby of saying goodnight.",
+   "description": "In the great green room, a little bunny says goodnight to everything around him. Margaret Wise Brown's gentle, rhythmic text and Clement Hurd's cozy illustrations have made this the quintessential bedtime story for generations.",
+   "specs": {
+    "Format": "Board book",
+    "Scale/Pages": "32 pages",
+    "Brand": "HarperCollins"
+   },
+   "interests": [
+    "reading",
+    "animals"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "social-emotional"
+   ],
+   "themes": [
+    "bedtime",
+    "soothing",
+    "classic"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 4210,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bill-martin-jr-eric-carle-brown-bear-brown-bear-what-do-you-",
+   "title": "Brown Bear, Brown Bear, What Do You See?",
+   "brand": "Bill Martin Jr. / Eric Carle",
+   "category": "books",
+   "price": 7.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 60,
+   "ageLabel": "1–5 yrs",
+   "image": "assets/img/catalog/bill-martin-jr-eric-carle-brown-bear-brown-bear-what-do-you-.jpg",
+   "shortDesc": "A rhythmic parade of colorful animals for early readers.",
+   "description": "Children chime in on the repeating refrain as a brown bear, red bird, and a whole cast of colorful animals appear one by one. Bill Martin Jr.'s soothing rhythm and Eric Carle's bold art teach colors, animals, and the joy of reading aloud.",
+   "specs": {
+    "Format": "Board book",
+    "Scale/Pages": "28 pages",
+    "Brand": "Henry Holt"
+   },
+   "interests": [
+    "animals",
+    "reading",
+    "art"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "early-math"
+   ],
+   "themes": [
+    "colors",
+    "animals",
+    "read-aloud"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 3890,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "maurice-sendak-where-the-wild-things-are",
+   "title": "Where the Wild Things Are",
+   "brand": "Maurice Sendak",
+   "category": "books",
+   "price": 12.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/maurice-sendak-where-the-wild-things-are.jpg",
+   "shortDesc": "Max sails off to rule the land of the Wild Things.",
+   "description": "When Max is sent to bed without supper, his imagination sets sail to an island of Wild Things where he becomes king of all. Maurice Sendak's Caldecott-winning tale is a timeless celebration of imagination and coming home to love.",
+   "specs": {
+    "Format": "Picture book",
+    "Scale/Pages": "48 pages",
+    "Brand": "HarperCollins"
+   },
+   "interests": [
+    "fantasy-magic",
+    "reading",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "literacy",
+    "social-emotional"
+   ],
+   "themes": [
+    "adventure",
+    "imagination",
+    "classic"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 3105,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "dr-seuss-green-eggs-and-ham",
+   "title": "Green Eggs and Ham",
+   "brand": "Dr. Seuss",
+   "category": "books",
+   "price": 9.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/dr-seuss-green-eggs-and-ham.jpg",
+   "shortDesc": "Sam-I-Am's silly, rhyming ode to trying new things.",
+   "description": "Would you, could you, in a box? Dr. Seuss's wildly popular beginner book uses just 50 words and irresistible rhyme to follow Sam-I-Am's quest to share green eggs and ham. A perfect, giggle-filled book for new readers.",
+   "specs": {
+    "Format": "Early reader hardcover",
+    "Scale/Pages": "62 pages",
+    "Brand": "Random House"
+   },
+   "interests": [
+    "reading",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "focus-attention"
+   ],
+   "themes": [
+    "rhyming",
+    "silly",
+    "classic"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "back-to-school"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 2870,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "dr-seuss-the-cat-in-the-hat",
+   "title": "The Cat in the Hat",
+   "brand": "Dr. Seuss",
+   "category": "books",
+   "price": 9.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/dr-seuss-the-cat-in-the-hat.jpg",
+   "shortDesc": "The mischievous cat turns a rainy day upside down.",
+   "description": "With Mother away, a tall cat in a striped hat brings wild fun (and chaos) to Sally and her brother's rainy day. Dr. Seuss's landmark early reader mixes simple words with unforgettable rhyme to make learning to read pure joy.",
+   "specs": {
+    "Format": "Early reader hardcover",
+    "Scale/Pages": "61 pages",
+    "Brand": "Random House"
+   },
+   "interests": [
+    "reading",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "focus-attention"
+   ],
+   "themes": [
+    "rhyming",
+    "mischief",
+    "classic"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "back-to-school"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 2650,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "eric-litwin-james-dean-pete-the-cat-i-love-my-white-shoes",
+   "title": "Pete the Cat: I Love My White Shoes",
+   "brand": "Eric Litwin / James Dean",
+   "category": "books",
+   "price": 8.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2–6 yrs",
+   "image": "assets/img/catalog/eric-litwin-james-dean-pete-the-cat-i-love-my-white-shoes.jpg",
+   "shortDesc": "Pete keeps singing no matter what color his shoes turn.",
+   "description": "Pete the Cat strolls along in his brand-new white shoes, and no matter what he steps in, he keeps on singing his song. This upbeat, sing-along story teaches kids to take life's messes in stride and stay cool.",
+   "specs": {
+    "Format": "Picture book",
+    "Scale/Pages": "40 pages",
+    "Brand": "HarperCollins"
+   },
+   "interests": [
+    "music",
+    "reading",
+    "animals"
+   ],
+   "skills": [
+    "literacy",
+    "social-emotional",
+    "language"
+   ],
+   "themes": [
+    "colors",
+    "positivity",
+    "sing-along"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 3320,
+   "inStock": true,
+   "source": "upload.wikimedia.org",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "hasbro-marvel-legends-marvel-legends-series-the-amazing-spid",
+   "title": "Marvel Legends Series The Amazing Spider-Man (Retro Collection)",
+   "brand": "Hasbro Marvel Legends",
+   "category": "figures",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 1200,
+   "ageLabel": "4+ yrs",
+   "image": "assets/img/catalog/hasbro-marvel-legends-marvel-legends-series-the-amazing-spid.jpg",
+   "shortDesc": "6-inch comic-accurate Spidey with 11 web-slinging accessories",
+   "description": "Swing into action with this fully articulated 6-inch Amazing Spider-Man figure from Hasbro's Marvel Legends line. Comic-authentic detailing and eleven accessories, including alternate hands and web effects, make it a standout for collectors and Spidey fans alike.",
+   "specs": {
+    "Scale": "6-inch",
+    "Franchise": "Marvel Comics",
+    "Brand": "Hasbro Marvel Legends"
+   },
+   "interests": [
+    "superheroes"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "spider-man",
+    "comics",
+    "poseable"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 842,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "hasbro-marvel-legends-marvel-legends-maximum-series-spider-m",
+   "title": "Marvel Legends Maximum Series Spider-Man Deluxe",
+   "brand": "Hasbro Marvel Legends",
+   "category": "figures",
+   "price": 39.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 1200,
+   "ageLabel": "4+ yrs",
+   "image": "assets/img/catalog/hasbro-marvel-legends-marvel-legends-maximum-series-spider-m.jpg",
+   "shortDesc": "Deluxe Spidey with 35+ points of articulation and 20 accessories",
+   "description": "This Maximum Series deluxe Spider-Man raises the bar with over 35 points of articulation and 20 accessories, including alternate heads, hands, and dynamic web effects. Built for expressive posing, it's a centerpiece figure for serious Marvel collectors.",
+   "specs": {
+    "Scale": "6-inch",
+    "Franchise": "Marvel Comics",
+    "Brand": "Hasbro Marvel Legends"
+   },
+   "interests": [
+    "superheroes"
+   ],
+   "skills": [
+    "imagination",
+    "fine-motor"
+   ],
+   "themes": [
+    "spider-man",
+    "deluxe",
+    "poseable"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 416,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "mcfarlane-toys-mcfarlane-toys-dc-multiverse-batman-1989",
+   "title": "McFarlane Toys DC Multiverse Batman (1989)",
+   "brand": "McFarlane Toys",
+   "category": "figures",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 144,
+   "ageMaxMonths": 1200,
+   "ageLabel": "12+ yrs",
+   "image": "assets/img/catalog/mcfarlane-toys-mcfarlane-toys-dc-multiverse-batman-1989.jpg",
+   "shortDesc": "7-inch Michael Keaton Batman with soft-goods cape and base",
+   "description": "Straight from the classic 1989 film, this 7-inch DC Multiverse Batman features a fabric cape, ultra articulation, and a full accessory set including batarang and grapnel launcher. A must-have for fans of Tim Burton's Gotham.",
+   "specs": {
+    "Scale": "7-inch",
+    "Franchise": "DC / Batman (1989)",
+    "Brand": "McFarlane Toys"
+   },
+   "interests": [
+    "superheroes"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "batman",
+    "dc",
+    "poseable"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 389,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "mcfarlane-toys-mcfarlane-toys-dc-multiverse-batman-the-anima",
+   "title": "McFarlane Toys DC Multiverse Batman: The Animated Series",
+   "brand": "McFarlane Toys",
+   "category": "figures",
+   "price": 19.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 144,
+   "ageMaxMonths": 1200,
+   "ageLabel": "12+ yrs",
+   "image": "assets/img/catalog/mcfarlane-toys-mcfarlane-toys-dc-multiverse-batman-the-anima.jpg",
+   "shortDesc": "7-inch Batman inspired by the beloved animated series",
+   "description": "This DC Multiverse figure captures the Dark Knight in his iconic Batman: The Animated Series look, complete with collectible art card and character bio. Ultra-articulated and display-ready for any Gotham shelf.",
+   "specs": {
+    "Scale": "7-inch",
+    "Franchise": "DC / Batman: The Animated Series",
+    "Brand": "McFarlane Toys"
+   },
+   "interests": [
+    "superheroes"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "batman",
+    "dc",
+    "animated"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 511,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "hasbro-transformers-transformers-legacy-united-leader-class-",
+   "title": "Transformers Legacy United Leader Class Overcharge",
+   "brand": "Hasbro Transformers",
+   "category": "figures",
+   "price": 44.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/hasbro-transformers-transformers-legacy-united-leader-class-.jpg",
+   "shortDesc": "7.5-inch triple-changer: robot, jet, and tank modes",
+   "description": "This Leader Class Overcharge converts between robot, jet, and tank modes for triple the transforming fun. Standing 7.5 inches, it's a premium centerpiece for the Transformers Legacy United lineup.",
+   "specs": {
+    "Scale": "7.5-inch Leader Class",
+    "Franchise": "Transformers",
+    "Brand": "Hasbro Transformers"
+   },
+   "interests": [
+    "vehicles",
+    "superheroes"
+   ],
+   "skills": [
+    "problem-solving",
+    "fine-motor"
+   ],
+   "themes": [
+    "transformers",
+    "robots",
+    "converting"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 203,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "hasbro-transformers-transformers-legacy-deluxe-g2-universe-b",
+   "title": "Transformers Legacy Deluxe G2 Universe Breakdown",
+   "brand": "Hasbro Transformers",
+   "category": "figures",
+   "price": 21.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/hasbro-transformers-transformers-legacy-deluxe-g2-universe-b.jpg",
+   "shortDesc": "5.5-inch Deluxe Breakdown converts to sports car in 15 steps",
+   "description": "G2 Universe Breakdown converts from robot to sports car in 15 steps and comes with blaster and spoiler accessories. A great-value Deluxe Class figure for building out any Transformers Legacy collection.",
+   "specs": {
+    "Scale": "5.5-inch Deluxe Class",
+    "Franchise": "Transformers",
+    "Brand": "Hasbro Transformers"
+   },
+   "interests": [
+    "vehicles"
+   ],
+   "skills": [
+    "problem-solving",
+    "fine-motor"
+   ],
+   "themes": [
+    "transformers",
+    "robots",
+    "converting"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 174,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "funko-funko-pop-tv-wednesday-wednesday-addams",
+   "title": "Funko Pop! TV: Wednesday - Wednesday Addams",
+   "brand": "Funko",
+   "category": "figures",
+   "price": 11.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 1200,
+   "ageLabel": "6+ yrs",
+   "image": "assets/img/catalog/funko-funko-pop-tv-wednesday-wednesday-addams.jpg",
+   "shortDesc": "3.75-inch stylized vinyl Wednesday Addams from the Netflix hit",
+   "description": "Bring a little gloom to your shelf with this stylized Funko Pop! of Wednesday Addams from the Netflix series. Standing about 3.75 inches in a window display box, it's a perfect pick for fans and collectors.",
+   "specs": {
+    "Scale": "3.75-inch",
+    "Franchise": "Wednesday (Netflix)",
+    "Brand": "Funko"
+   },
+   "interests": [
+    "fantasy-magic"
+   ],
+   "skills": [
+    "imagination"
+   ],
+   "themes": [
+    "wednesday",
+    "pop-vinyl",
+    "tv"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1360,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "mattel-jurassic-world-jurassic-world-hammond-collection-giga",
+   "title": "Jurassic World Hammond Collection Giganotosaurus",
+   "brand": "Mattel Jurassic World",
+   "category": "figures",
+   "price": 54.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/mattel-jurassic-world-jurassic-world-hammond-collection-giga.jpg",
+   "shortDesc": "Massive Hammond Collection dino with 21 articulations and glass eyes",
+   "description": "The largest carnivore in the Hammond Collection, this Giganotosaurus features 21 points of articulation, lifelike glass eyes, a wired tail, and a posable tongue. A premium, movie-accurate centerpiece for dinosaur fans and collectors.",
+   "specs": {
+    "Scale": "Hammond Collection",
+    "Franchise": "Jurassic World Dominion",
+    "Brand": "Mattel"
+   },
+   "interests": [
+    "dinosaurs",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "fine-motor"
+   ],
+   "themes": [
+    "jurassic-world",
+    "dinosaur",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 298,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "mattel-jurassic-world-jurassic-park-hammond-collection-dr-ia",
+   "title": "Jurassic Park Hammond Collection Dr. Ian Malcolm",
+   "brand": "Mattel Jurassic World",
+   "category": "figures",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/mattel-jurassic-world-jurassic-park-hammond-collection-dr-ia.jpg",
+   "shortDesc": "Articulated Ian Malcolm figure with interchangeable arms",
+   "description": "Chaos theory comes to your shelf with this Hammond Collection Dr. Ian Malcolm figure, featuring authentic detailing, interchangeable arms, and an accessory. A collectible tribute to the Jurassic Park classic.",
+   "specs": {
+    "Scale": "3.75-inch",
+    "Franchise": "Jurassic Park",
+    "Brand": "Mattel"
+   },
+   "interests": [
+    "dinosaurs"
+   ],
+   "skills": [
+    "imagination"
+   ],
+   "themes": [
+    "jurassic-park",
+    "character",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 221,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "hasbro-marvel-legends-marvel-legends-series-spider-man-unlim",
+   "title": "Marvel Legends Series Spider-Man Unlimited (Retro)",
+   "brand": "Hasbro Marvel Legends",
+   "category": "figures",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 1200,
+   "ageLabel": "4+ yrs",
+   "image": "assets/img/catalog/hasbro-marvel-legends-marvel-legends-series-spider-man-unlim.jpg",
+   "shortDesc": "6-inch Spider-Man Unlimited with premium retro comic deco",
+   "description": "Inspired by the Spider-Man Unlimited era, this fully articulated 6-inch Marvel Legends figure sports premium detailing and four alternate hand accessories. A retro-carded gem for Spidey collectors.",
+   "specs": {
+    "Scale": "6-inch",
+    "Franchise": "Marvel Comics",
+    "Brand": "Hasbro Marvel Legends"
+   },
+   "interests": [
+    "superheroes"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "spider-man",
+    "comics",
+    "poseable"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 167,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "pokemon-tcg-pokemon-tcg-scarlet-violet-destined-rivals-boost",
+   "title": "Pokemon TCG: Scarlet & Violet Destined Rivals Booster Display Box (36 Packs)",
+   "brand": "Pokemon TCG",
+   "category": "cards",
+   "price": 161.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 1200,
+   "ageLabel": "6+ yrs",
+   "image": "assets/img/catalog/pokemon-tcg-pokemon-tcg-scarlet-violet-destined-rivals-boost.jpg",
+   "shortDesc": "36-pack display box from the Destined Rivals expansion",
+   "description": "Open a full display of 36 Destined Rivals booster packs and chase powerful new Pokemon and rare cards. A sealed collector's box perfect for players, traders, and gift-givers.",
+   "specs": {
+    "Scale": "36 booster packs",
+    "Franchise": "Pokemon TCG - Destined Rivals",
+    "Brand": "The Pokemon Company"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "logic",
+    "social-emotional"
+   ],
+   "themes": [
+    "pokemon",
+    "tcg",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 540,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "pokemon-tcg-pokemon-tcg-scarlet-violet-stellar-crown-booster",
+   "title": "Pokemon TCG: Scarlet & Violet Stellar Crown Booster Box (36 Packs)",
+   "brand": "Pokemon TCG",
+   "category": "cards",
+   "price": 149.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 1200,
+   "ageLabel": "6+ yrs",
+   "image": "assets/img/catalog/pokemon-tcg-pokemon-tcg-scarlet-violet-stellar-crown-booster.jpg",
+   "shortDesc": "36-pack Stellar Crown booster box for players and collectors",
+   "description": "This Stellar Crown display box packs 36 booster packs brimming with radiant Tera Pokemon and chase rares. A sealed treasure for building decks or expanding a collection.",
+   "specs": {
+    "Scale": "36 booster packs",
+    "Franchise": "Pokemon TCG - Stellar Crown",
+    "Brand": "The Pokemon Company"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "logic",
+    "social-emotional"
+   ],
+   "themes": [
+    "pokemon",
+    "tcg",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 612,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magic-the-gathering-magic-the-gathering-foundations-play-boo",
+   "title": "Magic: The Gathering Foundations Play Booster Box (36 Packs)",
+   "brand": "Magic: The Gathering",
+   "category": "cards",
+   "price": 143.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 156,
+   "ageMaxMonths": 1200,
+   "ageLabel": "13+ yrs",
+   "image": "assets/img/catalog/magic-the-gathering-magic-the-gathering-foundations-play-boo.jpg",
+   "shortDesc": "36 Play Boosters of MTG's foundational core set",
+   "description": "Foundations is the go-to starting point for Magic, and this Play Booster Box delivers 36 packs of 14 cards each for Limited play or just cracking packs. Perfect for new players and veterans building their collection.",
+   "specs": {
+    "Scale": "36 play boosters",
+    "Franchise": "Magic: The Gathering - Foundations",
+    "Brand": "Wizards of the Coast"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic",
+    "board-games"
+   ],
+   "skills": [
+    "logic",
+    "problem-solving",
+    "early-math"
+   ],
+   "themes": [
+    "magic",
+    "tcg",
+    "strategy"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 327,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magic-the-gathering-magic-the-gathering-foundations-collecto",
+   "title": "Magic: The Gathering Foundations Collector Booster Box",
+   "brand": "Magic: The Gathering",
+   "category": "cards",
+   "price": 249.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 156,
+   "ageMaxMonths": 1200,
+   "ageLabel": "13+ yrs",
+   "image": "assets/img/catalog/magic-the-gathering-magic-the-gathering-foundations-collecto.jpg",
+   "shortDesc": "Premium Collector Boosters loaded with foils and special treatments",
+   "description": "For collectors who want the flashiest cards, the Foundations Collector Booster Box is stacked with foils, extended-art, and alternate treatments. A premium way to chase the set's most stunning versions.",
+   "specs": {
+    "Scale": "Collector boosters",
+    "Franchise": "Magic: The Gathering - Foundations",
+    "Brand": "Wizards of the Coast"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic",
+    "board-games"
+   ],
+   "skills": [
+    "logic",
+    "problem-solving"
+   ],
+   "themes": [
+    "magic",
+    "tcg",
+    "premium"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 198,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "ravensburger-disney-lorcana-disney-lorcana-tcg-the-first-cha",
+   "title": "Disney Lorcana TCG: The First Chapter Booster Display (24 Packs)",
+   "brand": "Ravensburger Disney Lorcana",
+   "category": "cards",
+   "price": 119.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/ravensburger-disney-lorcana-disney-lorcana-tcg-the-first-cha.jpg",
+   "shortDesc": "24-pack display of Lorcana's debut set with 12 cards each",
+   "description": "Begin your Lorcana journey with The First Chapter booster display, featuring 24 packs of 12 cards showcasing beloved Disney characters reimagined as Illumineers' glimmers. A magical pick for Disney fans and card players.",
+   "specs": {
+    "Scale": "24 booster packs",
+    "Franchise": "Disney Lorcana - The First Chapter",
+    "Brand": "Ravensburger"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic",
+    "board-games"
+   ],
+   "skills": [
+    "logic",
+    "literacy",
+    "social-emotional"
+   ],
+   "themes": [
+    "disney",
+    "lorcana",
+    "tcg"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 455,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "ravensburger-disney-lorcana-disney-lorcana-tcg-into-the-inkl",
+   "title": "Disney Lorcana TCG: Into The Inklands Booster Display (24 Packs)",
+   "brand": "Ravensburger Disney Lorcana",
+   "category": "cards",
+   "price": 109.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 1200,
+   "ageLabel": "8+ yrs",
+   "image": "assets/img/catalog/ravensburger-disney-lorcana-disney-lorcana-tcg-into-the-inkl.jpg",
+   "shortDesc": "24-pack Into The Inklands display for Disney Lorcana",
+   "description": "Explore new frontiers with the Into The Inklands booster display, packing 24 packs of 12 cards and introducing fresh Disney glimmers and locations. Ideal for collectors and Lorcana players expanding their decks.",
+   "specs": {
+    "Scale": "24 booster packs",
+    "Franchise": "Disney Lorcana - Into The Inklands",
+    "Brand": "Ravensburger"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic",
+    "board-games"
+   ],
+   "skills": [
+    "logic",
+    "literacy",
+    "social-emotional"
+   ],
+   "themes": [
+    "disney",
+    "lorcana",
+    "tcg"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 312,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "panini-2024-panini-prizm-nfl-football-blaster-box",
+   "title": "2024 Panini Prizm NFL Football Blaster Box",
+   "brand": "Panini",
+   "category": "cards",
+   "price": 39.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 1200,
+   "ageLabel": "6+ yrs",
+   "image": "assets/img/catalog/panini-2024-panini-prizm-nfl-football-blaster-box.jpg",
+   "shortDesc": "Blaster box with exclusive Disco Prizm parallels",
+   "description": "The 2024 Panini Prizm Football Blaster Box delivers six packs of NFL cards with Blaster-exclusive Disco Prizm parallels. Chase rookies and stars in the hobby's most iconic football set.",
+   "specs": {
+    "Scale": "6 packs / 24 cards",
+    "Franchise": "NFL - Panini Prizm 2024",
+    "Brand": "Panini"
+   },
+   "interests": [
+    "trading-cards",
+    "sports"
+   ],
+   "skills": [
+    "social-emotional",
+    "early-math"
+   ],
+   "themes": [
+    "football",
+    "nfl",
+    "sports-cards"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 276,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "pokemon-tcg-pokemon-tcg-scarlet-violet-paldea-evolved-booste",
+   "title": "Pokemon TCG: Scarlet & Violet Paldea Evolved Booster Display Box (36 Packs)",
+   "brand": "Pokemon TCG",
+   "category": "cards",
+   "price": 149.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 1200,
+   "ageLabel": "6+ yrs",
+   "image": "assets/img/catalog/pokemon-tcg-pokemon-tcg-scarlet-violet-paldea-evolved-booste.jpg",
+   "shortDesc": "36-pack Paldea Evolved display box of Scarlet & Violet cards",
+   "description": "Dive into the Paldea region with this 36-pack Paldea Evolved display box, loaded with evolved Pokemon and rare pulls. A sealed favorite for deck-builders, collectors, and gift-givers.",
+   "specs": {
+    "Scale": "36 booster packs",
+    "Franchise": "Pokemon TCG - Paldea Evolved",
+    "Brand": "The Pokemon Company"
+   },
+   "interests": [
+    "trading-cards",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "logic",
+    "social-emotional"
+   ],
+   "themes": [
+    "pokemon",
+    "tcg",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 488,
+   "inStock": true,
+   "source": "m.media-amazon.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-palm-pals-5-bamboo-panda",
+   "title": "Aurora Palm Pals 5\" Bamboo Panda",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 11.69,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-palm-pals-5-bamboo-panda.jpg",
+   "shortDesc": "Palm-sized squishy panda plush that fits right in your hand.",
+   "description": "Bamboo the panda is a pocket-sized member of Aurora's beloved Palm Pals family. With super-soft black-and-white fur, sweet eyes and a gentle smile, this collectible plush is perfect for cuddles, collecting and taking along everywhere.",
+   "specs": {
+    "Size": "5 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "animals"
+   ],
+   "skills": [
+    "social-emotional",
+    "imagination"
+   ],
+   "themes": [
+    "panda",
+    "collectible",
+    "palm-sized"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 214,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-palm-pals-5-rei-red-panda",
+   "title": "Aurora Palm Pals 5\" Rei Red Panda",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 11.69,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-palm-pals-5-rei-red-panda.jpg",
+   "shortDesc": "A cuddly little red panda that fits in the palm of your hand.",
+   "description": "Rei the red panda brings warm russet fur and an irresistibly sweet face to the Palm Pals collection. Squishy, soft and perfectly pocket-sized, Rei is ready to be tucked into a bag, a pocket or a growing plush collection.",
+   "specs": {
+    "Size": "5 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "animals"
+   ],
+   "skills": [
+    "social-emotional",
+    "imagination"
+   ],
+   "themes": [
+    "red-panda",
+    "collectible",
+    "palm-sized"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 176,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-palm-pals-5-sorbet-unicorn",
+   "title": "Aurora Palm Pals 5\" Sorbet Unicorn",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 11.69,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-palm-pals-5-sorbet-unicorn.jpg",
+   "shortDesc": "Pastel palm-sized unicorn with a sparkly horn and rainbow mane.",
+   "description": "Sorbet the unicorn dazzles with pastel hues, a shimmering horn and a soft rainbow mane. This palm-sized Palm Pals plush is a magical little companion that's easy to carry and impossible not to squeeze.",
+   "specs": {
+    "Size": "5 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "fantasy-magic",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "unicorn",
+    "pastel",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 198,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-palm-pals-5-sassy-unicorn",
+   "title": "Aurora Palm Pals 5\" Sassy Unicorn",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 11.69,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-palm-pals-5-sassy-unicorn.jpg",
+   "shortDesc": "A whimsical palm-sized unicorn with a playful sparkle.",
+   "description": "Sassy the unicorn joins the Whimsical Palm Pals collection with bright colors, a glittery horn and a cheeky charm. Soft, squishy and pocket-sized, she's a magical friend for cuddles, imaginative play and collecting.",
+   "specs": {
+    "Size": "5 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "fantasy-magic",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "creativity"
+   ],
+   "themes": [
+    "unicorn",
+    "whimsical",
+    "collectible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 143,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-spudsters-10-taren-triceratops",
+   "title": "Aurora Spudsters 10\" Taren Triceratops",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 21.19,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-spudsters-10-taren-triceratops.jpg",
+   "shortDesc": "A huggable potato-shaped triceratops plush that's pure squish.",
+   "description": "Taren the triceratops mixes prehistoric charm with the cuddly potato shape that makes Spudsters so squeezable. Soft icy-blue fabric and deep gray accents make this 10-inch dino a standout snuggle buddy for little paleontologists.",
+   "specs": {
+    "Size": "10 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "dinosaurs",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "social-emotional"
+   ],
+   "themes": [
+    "dinosaur",
+    "triceratops",
+    "spudster"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 121,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "aurora-aurora-spudsters-10-stevie-stegosaurus",
+   "title": "Aurora Spudsters 10\" Stevie Stegosaurus",
+   "brand": "Aurora",
+   "category": "plush",
+   "price": 21.19,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3+ years",
+   "image": "assets/img/catalog/aurora-aurora-spudsters-10-stevie-stegosaurus.jpg",
+   "shortDesc": "A snuggly spud-shaped stegosaurus ready for dino adventures.",
+   "description": "Stevie the stegosaurus brings dino delight in the huggable potato shape of the Spudsters line. With soft plush plates and a friendly face, this 10-inch plush is a perfect cuddle companion and gift for dinosaur-loving kids.",
+   "specs": {
+    "Size": "10 inches",
+    "Material": "Polyester plush",
+    "Brand": "Aurora"
+   },
+   "interests": [
+    "dinosaurs",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "social-emotional"
+   ],
+   "themes": [
+    "dinosaur",
+    "stegosaurus",
+    "spudster"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 109,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-submarine-spray-station",
+   "title": "Yookidoo Submarine Spray Station",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 34.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2-6 years",
+   "image": "assets/img/catalog/yookidoo-yookidoo-submarine-spray-station.jpg",
+   "shortDesc": "Battery-powered sub sprays water to trigger fun bath chain reactions.",
+   "description": "This award-winning bath set features a battery-operated submarine that sprays water into an activity station, setting off spinning chain reactions. Mold-free and wall-mounted, it turns everyday bath time into a hands-on water-play adventure.",
+   "specs": {
+    "Size": "Wall-mounted station + submarine",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "ocean-sealife",
+    "science",
+    "vehicles"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "problem-solving",
+    "stem"
+   ],
+   "themes": [
+    "submarine",
+    "water-play",
+    "cause-effect"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 342,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-submarine-spray-whale",
+   "title": "Yookidoo Submarine Spray Whale",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 26.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "1-3 years",
+   "image": "assets/img/catalog/yookidoo-yookidoo-submarine-spray-whale.jpg",
+   "shortDesc": "Easy-grip whale shower that recycles bath water for endless play.",
+   "description": "A battery-operated whale bath toy with an easy-to-grip hand shower and hose that recycles tub water into a magical stream. Mold-free and toddler-friendly, it encourages independent, splashy exploration during bath time.",
+   "specs": {
+    "Size": "Handheld whale + hose",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "ocean-sealife",
+    "animals"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "fine-motor",
+    "sensory"
+   ],
+   "themes": [
+    "whale",
+    "water-play",
+    "shower"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 287,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-flow-n-fill-spout",
+   "title": "Yookidoo Flow 'n' Fill Spout",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 26.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 9,
+   "ageMaxMonths": 36,
+   "ageLabel": "9-36 months",
+   "image": "assets/img/catalog/yookidoo-yookidoo-flow-n-fill-spout.jpg",
+   "shortDesc": "A circulating spout with stackable cups for endless pouring fun.",
+   "description": "A battery-operated spout with a circulating water pump creates a continuous stream without wasting tap water. Three stackable play cups each do something different, teaching cause and effect through hands-on scooping and pouring.",
+   "specs": {
+    "Size": "Spout + 3 stackable cups",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "science",
+    "sensory"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "fine-motor",
+    "problem-solving"
+   ],
+   "themes": [
+    "water-play",
+    "stacking",
+    "cause-effect"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 401,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-funelefun-fill-n-sprinkle",
+   "title": "Yookidoo FunElefun Fill 'N' Sprinkle",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 14.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "1-3 years",
+   "image": "assets/img/catalog/yookidoo-yookidoo-funelefun-fill-n-sprinkle.jpg",
+   "shortDesc": "A friendly elephant that sprinkles water through its trunk.",
+   "description": "This cheerful elephant bath toy lets little ones fill the cup and watch water sprinkle out through the trunk like gentle rain. Simple, mold-conscious and perfectly sized for toddler hands, it makes bath time a sensory delight.",
+   "specs": {
+    "Size": "Handheld elephant cup",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "animals",
+    "sensory"
+   ],
+   "skills": [
+    "fine-motor",
+    "hand-eye-coordination",
+    "sensory"
+   ],
+   "themes": [
+    "elephant",
+    "water-play",
+    "sprinkle"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 156,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-elefountain-water-show",
+   "title": "Yookidoo Elefountain Water Show",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 29.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 48,
+   "ageLabel": "1-4 years",
+   "image": "assets/img/catalog/yookidoo-yookidoo-elefountain-water-show.jpg",
+   "shortDesc": "An elephant fountain that shoots a dancing spray of bath water.",
+   "description": "The Elefountain pumps a fun fountain of water from its trunk for a lively bath-time water show. With interchangeable trunk accessories that spin, twist and sprinkle, it keeps curious toddlers splashing and experimenting.",
+   "specs": {
+    "Size": "Elephant fountain base",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "animals",
+    "science"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "problem-solving",
+    "stem"
+   ],
+   "themes": [
+    "elephant",
+    "water-play",
+    "fountain"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 189,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "yookidoo-yookidoo-jet-duck-create-a-pirate",
+   "title": "Yookidoo Jet Duck Create a Pirate",
+   "brand": "Yookidoo",
+   "category": "bath",
+   "price": 29.95,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2-6 years",
+   "image": "assets/img/catalog/yookidoo-yookidoo-jet-duck-create-a-pirate.jpg",
+   "shortDesc": "A motorized water-spraying duck kids dress up as a pirate.",
+   "description": "This battery-operated duck jets a stream of water while kids customize it with pirate accessories for imaginative bath-time storytelling. Swappable pieces and a real water spray make every bath a new adventure on the high seas.",
+   "specs": {
+    "Size": "Motorized duck + accessories",
+    "Material": "BPA-free plastic",
+    "Brand": "Yookidoo"
+   },
+   "interests": [
+    "pretend-play",
+    "dress-up",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "creativity",
+    "fine-motor"
+   ],
+   "themes": [
+    "duck",
+    "pirate",
+    "water-play"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 233,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-wooden-chef-s-kitchen-charcoal",
+   "title": "Wooden Chef's Kitchen - Charcoal",
+   "brand": "Melissa & Doug",
+   "category": "pretend",
+   "price": 279.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/melissa-doug-wooden-chef-s-kitchen-charcoal.jpg",
+   "shortDesc": "Modern play kitchen with working ice maker, oven, sink and storage.",
+   "description": "Budding young chefs can hone their craft in this beautifully designed charcoal play kitchen. It features a refrigerator with a working ice dispenser, an oven and stovetop with turning dials, a microwave, and a sink with a moving faucet. Sturdy wooden construction stands up to years of make-believe meal-making.",
+   "specs": {
+    "Pieces": "Kitchen unit + 2 ice cubes",
+    "Material": "FSC-certified wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "pretend-play",
+    "cooking"
+   ],
+   "skills": [
+    "imagination",
+    "social-emotional",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "kitchen",
+    "role-play",
+    "chef"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 412,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-get-well-doctor-s-kit-play-set",
+   "title": "Get Well Doctor's Kit Play Set",
+   "brand": "Melissa & Doug",
+   "category": "pretend",
+   "price": 29.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/melissa-doug-get-well-doctor-s-kit-play-set.jpg",
+   "shortDesc": "25-piece doctor set: stethoscope, blood pressure cuff, thermometer and more.",
+   "description": "The doctor will see you now! This 25-piece kit lets little doctors check temperature, heartbeat, blood pressure, eyesight and hearing with realistic accessories. Reusable activity cards, an ID badge on a lanyard, and a waiting-room magazine round out the experience while easing real-life doctor-visit jitters.",
+   "specs": {
+    "Pieces": "25",
+    "Material": "Plastic & fabric",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "pretend-play"
+   ],
+   "skills": [
+    "imagination",
+    "social-emotional",
+    "language"
+   ],
+   "themes": [
+    "doctor",
+    "role-play",
+    "nurturing"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 3120,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-deluxe-wooden-cooktop-set",
+   "title": "Deluxe Wooden Cooktop Set",
+   "brand": "Melissa & Doug",
+   "category": "pretend",
+   "price": 70.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-deluxe-wooden-cooktop-set.jpg",
+   "shortDesc": "19-piece wooden stovetop with pots, pans and reversible cooked/uncooked food.",
+   "description": "It's easy to cook up a good time with this pretend-play stovetop set. The sturdy wood cooktop has removable burner grates, adjustable knobs, and a rack for hanging pots and utensils. Reversible food items show uncooked on one side and cooked on the other for realistic make-believe meals.",
+   "specs": {
+    "Pieces": "19",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "pretend-play",
+    "cooking"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "creativity",
+    "imagination"
+   ],
+   "themes": [
+    "kitchen",
+    "cooking",
+    "play-food"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 890,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-examine-treat-pet-vet-play-set",
+   "title": "Examine & Treat Pet Vet Play Set",
+   "brand": "Melissa & Doug",
+   "category": "pretend",
+   "price": 41.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/melissa-doug-examine-treat-pet-vet-play-set.jpg",
+   "shortDesc": "24-piece animal-doctor playset with dog and cat plushies and vet tools.",
+   "description": "Little veterinarians can examine and treat their plush patients with this 24-piece set, complete with cuddly dog and cat plushies. The kit includes a carrier, medical tools, and accessories that encourage nurturing, empathetic role-play and a love of animals.",
+   "specs": {
+    "Pieces": "24",
+    "Material": "Plush & plastic",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "pretend-play",
+    "animals"
+   ],
+   "skills": [
+    "imagination",
+    "social-emotional",
+    "language"
+   ],
+   "themes": [
+    "vet",
+    "animals",
+    "role-play"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 2450,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-star-diner-restaurant-play-set",
+   "title": "Star Diner Restaurant Play Set",
+   "brand": "Melissa & Doug",
+   "category": "pretend",
+   "price": 41.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/melissa-doug-star-diner-restaurant-play-set.jpg",
+   "shortDesc": "Retro diner play set with menus, order pad, play food and more.",
+   "description": "Kids can take orders, serve up meals, and ring up the bill at this cheerful retro diner. The set includes double-sided menus, an order pad, play money, and food accessories, inviting hours of social role-play as waiter, cook, or customer.",
+   "specs": {
+    "Pieces": "41",
+    "Material": "Cardboard, wood & plastic",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "pretend-play",
+    "cooking"
+   ],
+   "skills": [
+    "social-emotional",
+    "early-math",
+    "language"
+   ],
+   "themes": [
+    "diner",
+    "restaurant",
+    "role-play"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 760,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-created-by-me-bead-bouquet-wooden-bead-kit",
+   "title": "Created by Me! Bead Bouquet Wooden Bead Kit",
+   "brand": "Melissa & Doug",
+   "category": "arts",
+   "price": 21.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 120,
+   "ageLabel": "4–10 yrs",
+   "image": "assets/img/catalog/melissa-doug-created-by-me-bead-bouquet-wooden-bead-kit.jpg",
+   "shortDesc": "220+ wooden beads in hearts, flowers and butterflies for jewelry-making.",
+   "description": "This deluxe jewelry-making kit comes with 220+ handcrafted wooden beads shaped like hearts, flowers, and butterflies, plus 8 multicolored cords that cut to any size. The wooden sorting tray keeps everything organized so kids can design necklaces, bracelets, and anklets of their own.",
+   "specs": {
+    "Pieces": "220+ beads, 8 cords",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "art",
+    "dolls"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "jewelry",
+    "beading",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1980,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-created-by-me-sparkle-shimmer-beads-wooden-bead",
+   "title": "Created by Me! Sparkle & Shimmer Beads Wooden Bead Kit",
+   "brand": "Melissa & Doug",
+   "category": "arts",
+   "price": 30.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 120,
+   "ageLabel": "4–10 yrs",
+   "image": "assets/img/catalog/melissa-doug-created-by-me-sparkle-shimmer-beads-wooden-bead.jpg",
+   "shortDesc": "340 coordinating beads and 12 clasped laces — a full jewelry studio in a box.",
+   "description": "With 340 beads in a pretty array of coordinating colors plus 12 laces with clasps, this is a complete jewelry design kit in a box. Kids can mix, match, and string endless bracelet and necklace combinations to build fine-motor skills and creative confidence.",
+   "specs": {
+    "Pieces": "340 beads, 12 laces",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "art"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "focus-attention"
+   ],
+   "themes": [
+    "jewelry",
+    "beading",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 640,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-created-by-me-butterfly-beads-wooden-bead-kit",
+   "title": "Created by Me! Butterfly Beads Wooden Bead Kit",
+   "brand": "Melissa & Doug",
+   "category": "arts",
+   "price": 17.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 108,
+   "ageLabel": "4–9 yrs",
+   "image": "assets/img/catalog/melissa-doug-created-by-me-butterfly-beads-wooden-bead-kit.jpg",
+   "shortDesc": "120+ butterfly-themed wooden beads with 5 color-coordinated cords.",
+   "description": "Over 120 quality wooden beads in cheerful butterfly and flower shapes come with 5 color-coordinated cords in this beginner-friendly jewelry kit. It's a lovely first crafting project that builds fine-motor control and lets kids wear the results they make.",
+   "specs": {
+    "Pieces": "120+ beads, 5 cords",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "art"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "jewelry",
+    "butterflies",
+    "beading"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 510,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "perler-perler-bead-n-carry-activity-kit",
+   "title": "Perler Bead 'n Carry Activity Kit",
+   "brand": "Perler",
+   "category": "arts",
+   "price": 27.49,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 144,
+   "ageLabel": "6–12 yrs",
+   "image": "assets/img/catalog/perler-perler-bead-n-carry-activity-kit.jpg",
+   "shortDesc": "Fuse-bead activity kit with beads, pegboards and a carry case.",
+   "description": "This all-in-one fuse-bead kit packs thousands of colorful beads, pegboards, ironing paper, and pattern ideas into a handy carry case. Kids arrange beads into designs and fuse them with adult help, building patience, planning, and pride in a finished creation.",
+   "specs": {
+    "Pieces": "Multi-thousand beads + boards",
+    "Material": "Plastic fuse beads",
+    "Brand": "Perler"
+   },
+   "interests": [
+    "art"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "focus-attention",
+    "problem-solving"
+   ],
+   "themes": [
+    "fuse-beads",
+    "pixel-art",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 430,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "perler-perler-bead-fun-activity-kit",
+   "title": "Perler Bead Fun Activity Kit",
+   "brand": "Perler",
+   "category": "arts",
+   "price": 32.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 144,
+   "ageLabel": "6–12 yrs",
+   "image": "assets/img/catalog/perler-perler-bead-fun-activity-kit.jpg",
+   "shortDesc": "Big fuse-bead activity set with assorted beads, boards and patterns.",
+   "description": "A generous fuse-bead set loaded with assorted beads, multiple pegboards, and pattern inspiration for endless designs. Kids place beads one by one and fuse them into keepsakes, magnets, and charms while sharpening fine-motor skills and concentration.",
+   "specs": {
+    "Pieces": "Assorted beads + boards",
+    "Material": "Plastic fuse beads",
+    "Brand": "Perler"
+   },
+   "interests": [
+    "art"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "focus-attention"
+   ],
+   "themes": [
+    "fuse-beads",
+    "pixel-art",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 275,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "perler-perler-dinosaur-activity-bucket",
+   "title": "Perler Dinosaur Activity Bucket",
+   "brand": "Perler",
+   "category": "arts",
+   "price": 13.79,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 144,
+   "ageLabel": "6–12 yrs",
+   "image": "assets/img/catalog/perler-perler-dinosaur-activity-bucket.jpg",
+   "shortDesc": "Dinosaur-themed fuse-bead bucket with beads, pegboards and patterns.",
+   "description": "Dino fans can bring prehistoric creatures to life with this fuse-bead bucket, packed with colorful beads, dinosaur pegboards, and pattern ideas. Arrange, fuse, and display the finished dinos — a fun screen-free project that builds focus and creativity.",
+   "specs": {
+    "Pieces": "Beads + dino pegboards",
+    "Material": "Plastic fuse beads",
+    "Brand": "Perler"
+   },
+   "interests": [
+    "art",
+    "dinosaurs"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "focus-attention"
+   ],
+   "themes": [
+    "fuse-beads",
+    "dinosaurs",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 190,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "perler-perler-axolotl-fused-bead-activity-kit",
+   "title": "Perler Axolotl Fused Bead Activity Kit",
+   "brand": "Perler",
+   "category": "arts",
+   "price": 10.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 144,
+   "ageLabel": "6–12 yrs",
+   "image": "assets/img/catalog/perler-perler-axolotl-fused-bead-activity-kit.jpg",
+   "shortDesc": "Axolotl-themed fuse-bead kit with beads, pegboard and patterns.",
+   "description": "Craft your own adorable axolotl characters with this fuse-bead activity kit, complete with beads, a pegboard, and easy-to-follow patterns. It's an affordable, trend-forward project that keeps kids happily focused as they build cute keepsakes.",
+   "specs": {
+    "Pieces": "Beads + pegboard",
+    "Material": "Plastic fuse beads",
+    "Brand": "Perler"
+   },
+   "interests": [
+    "art",
+    "animals"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "focus-attention"
+   ],
+   "themes": [
+    "fuse-beads",
+    "axolotl",
+    "crafts"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 145,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-solar-system-floor-puzzle-48-pieces",
+   "title": "Solar System Floor Puzzle - 48 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-solar-system-floor-puzzle-48-pieces.jpg",
+   "shortDesc": "Giant 2x3-ft floor puzzle of the planets for little space fans",
+   "description": "Blast off into learning with this jumbo 48-piece floor puzzle that assembles into a two-by-three-foot solar system. Extra-thick pieces are easy for small hands to grip, and the vivid planets spark early conversations about space. A screen-free favorite for curious preschoolers.",
+   "specs": {
+    "Pieces": "48",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "space",
+    "science",
+    "puzzles"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "focus-attention"
+   ],
+   "themes": [
+    "planets",
+    "astronomy"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 842,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-dinosaur-floor-puzzle-48-pieces",
+   "title": "Dinosaur Floor Puzzle - 48 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-dinosaur-floor-puzzle-48-pieces.jpg",
+   "shortDesc": "Roar into a prehistoric scene with this jumbo 48-piece floor puzzle",
+   "description": "Dino lovers will stomp with joy over this two-by-three-foot floor puzzle packed with T-rex, triceratops and more. The 48 extra-thick cardboard pieces stand up to years of eager assembly. Building it together builds patience and shape recognition, one dinosaur at a time.",
+   "specs": {
+    "Pieces": "48",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "dinosaurs",
+    "puzzles",
+    "nature"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "focus-attention"
+   ],
+   "themes": [
+    "prehistoric",
+    "dinosaurs"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1176,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-underwater-floor-puzzle-48-pieces",
+   "title": "Underwater Floor Puzzle - 48 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-underwater-floor-puzzle-48-pieces.jpg",
+   "shortDesc": "Dive into an ocean scene with this big-piece floor puzzle",
+   "description": "Fish, dolphins and sea turtles fill this cheerful two-by-three-foot underwater floor puzzle. Its 48 chunky pieces are sized for little fingers and built to last. A calm, screen-free activity that grows a love of the ocean while sharpening early problem-solving.",
+   "specs": {
+    "Pieces": "48",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "ocean-sealife",
+    "animals",
+    "puzzles"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "focus-attention"
+   ],
+   "themes": [
+    "ocean",
+    "sea-life"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 693,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-usa-map-floor-puzzle-51-pieces",
+   "title": "USA Map Floor Puzzle - 51 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 60,
+   "ageMaxMonths": 120,
+   "ageLabel": "5–10 yrs",
+   "image": "assets/img/catalog/melissa-doug-usa-map-floor-puzzle-51-pieces.jpg",
+   "shortDesc": "Learn all 50 states with this giant map floor puzzle",
+   "description": "Each of the 51 jumbo pieces is cut to the shape of a U.S. state, so kids soak up geography as they build. The finished puzzle stretches two by three feet and is packed with landmarks and fun facts. A screen-free way to make learning the map genuinely fun.",
+   "specs": {
+    "Pieces": "51",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "puzzles",
+    "science",
+    "reading"
+   ],
+   "skills": [
+    "problem-solving",
+    "focus-attention",
+    "early-math"
+   ],
+   "themes": [
+    "geography",
+    "usa-map"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "back-to-school"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 958,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-glow-in-the-dark-unicorn-floor-puzzle-48-pieces",
+   "title": "Glow-in-the-Dark Unicorn Floor Puzzle - 48 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-glow-in-the-dark-unicorn-floor-puzzle-48-pieces.jpg",
+   "shortDesc": "A magical unicorn floor puzzle that glows after lights-out",
+   "description": "Build a dreamy unicorn scene by day, then watch it glow when the lights go off. This 48-piece floor puzzle assembles to two by three feet with thick, sturdy pieces made for little hands. A sparkly, screen-free gift for fans of all things magical.",
+   "specs": {
+    "Pieces": "48",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "fantasy-magic",
+    "puzzles",
+    "art"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "creativity"
+   ],
+   "themes": [
+    "unicorn",
+    "glow-in-the-dark"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 412,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-dinosaur-adventure-tracks-floor-puzzle-48-piece",
+   "title": "Dinosaur Adventure Tracks Floor Puzzle – 48 Pieces + 2 Wind-Up Dinosaurs",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 96,
+   "ageLabel": "4–8 yrs",
+   "image": "assets/img/catalog/melissa-doug-dinosaur-adventure-tracks-floor-puzzle-48-piece.jpg",
+   "shortDesc": "Floor puzzle with a track and two wind-up dinosaurs to race",
+   "description": "This clever 48-piece puzzle builds a three-foot prehistoric racetrack, then two wind-up dinosaurs zoom around the grooved path. It's puzzle-building and imaginative play rolled into one dino-sized adventure. Keeps little paleontologists busy long after the last piece clicks in.",
+   "specs": {
+    "Pieces": "48",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "dinosaurs",
+    "vehicles",
+    "puzzles",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "imagination"
+   ],
+   "themes": [
+    "dinosaurs",
+    "racing"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 287,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-safari-floor-puzzle-100-pieces",
+   "title": "Safari Floor Puzzle - 100 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 48,
+   "ageMaxMonths": 96,
+   "ageLabel": "4–8 yrs",
+   "image": "assets/img/catalog/melissa-doug-safari-floor-puzzle-100-pieces.jpg",
+   "shortDesc": "100-piece floor puzzle bursting with safari animals",
+   "description": "Lions, elephants, giraffes and zebras roam this vibrant 100-piece floor puzzle that finishes at a generous two by three feet. The larger piece count offers a satisfying next-step challenge for growing puzzlers. A screen-free way to travel the savanna from the living room rug.",
+   "specs": {
+    "Pieces": "100",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "animals",
+    "nature",
+    "puzzles"
+   ],
+   "skills": [
+    "problem-solving",
+    "focus-attention",
+    "fine-motor"
+   ],
+   "themes": [
+    "safari",
+    "wild-animals"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 534,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-giant-fire-truck-floor-puzzle-24-pieces",
+   "title": "Giant Fire Truck Floor Puzzle - 24 Pieces",
+   "brand": "Melissa & Doug",
+   "category": "puzzles",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 72,
+   "ageLabel": "3–6 yrs",
+   "image": "assets/img/catalog/melissa-doug-giant-fire-truck-floor-puzzle-24-pieces.jpg",
+   "shortDesc": "A nearly 4-ft fire truck floor puzzle for vehicle-loving kids",
+   "description": "Assemble a bright red fire truck that stretches almost four feet long from just 24 chunky pieces. The big, easy-grip pieces are perfect for younger builders getting their first puzzle wins. A screen-free favorite for kids who love trucks and rescue play.",
+   "specs": {
+    "Pieces": "24",
+    "Players": "1+",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "vehicles",
+    "puzzles",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "fire-truck",
+    "rescue"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 621,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-sleeping-queens",
+   "title": "Sleeping Queens",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 12.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 144,
+   "ageLabel": "8–12 yrs",
+   "image": "assets/img/catalog/gamewright-sleeping-queens.jpg",
+   "shortDesc": "Wake the queens in this beloved fast-paced family card game",
+   "description": "Invented by a six-year-old, this whimsical card game has players using kings, knights and sneaky jesters to wake a court of sleeping queens. Quick rounds sneak in a little addition and strategy without ever feeling like homework. A dependable crowd-pleaser for family game night.",
+   "specs": {
+    "Cards": "79",
+    "Players": "2–5",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "early-math",
+    "logic",
+    "social-emotional"
+   ],
+   "themes": [
+    "queens",
+    "card-game"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 3120,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-outfoxed",
+   "title": "Outfoxed!",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 19.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 60,
+   "ageMaxMonths": 120,
+   "ageLabel": "5–10 yrs",
+   "image": "assets/img/catalog/gamewright-outfoxed.jpg",
+   "shortDesc": "A cooperative whodunit where kids team up to catch the fox",
+   "description": "Someone snatched the prized pot pie, and players must work together to figure out which fox did it. Using a clever clue-revealing 'evidence scanner,' kids gather proof and deduce the culprit before it escapes. A cooperative game that builds deduction skills and teamwork.",
+   "specs": {
+    "Players": "2–4",
+    "Playtime": "20 min",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "animals"
+   ],
+   "skills": [
+    "logic",
+    "problem-solving",
+    "social-emotional"
+   ],
+   "themes": [
+    "mystery",
+    "cooperative"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 2054,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-dragonwood",
+   "title": "Dragonwood",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 14.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 96,
+   "ageMaxMonths": 168,
+   "ageLabel": "8–14 yrs",
+   "image": "assets/img/catalog/gamewright-dragonwood.jpg",
+   "shortDesc": "Collect cards and roll dice to capture creatures of Dragonwood",
+   "description": "Adventurers gather sets of cards to earn dice, then press their luck to strike, stomp or scream at the fantastical creatures lurking in Dragonwood. The mix of set-collection and dice-rolling keeps every turn tense and fun. A gateway strategy game that plays fast and travels well.",
+   "specs": {
+    "Players": "2–4",
+    "Playtime": "20 min",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "logic",
+    "problem-solving",
+    "early-math"
+   ],
+   "themes": [
+    "adventure",
+    "dice"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1487,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-sushi-go",
+   "title": "Sushi Go!",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 12.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 84,
+   "ageMaxMonths": 168,
+   "ageLabel": "7–14 yrs",
+   "image": "assets/img/catalog/gamewright-sushi-go.jpg",
+   "shortDesc": "Pass-and-pick card game of grabbing the best sushi combos",
+   "description": "In this speedy 'drafting' card game, players pick a card then pass the rest, racing to assemble the tastiest, highest-scoring plates of sushi. It's easy to learn, delightfully cute, and packs surprising strategy into 15 minutes. A pocket-sized hit for families and travel.",
+   "specs": {
+    "Cards": "108",
+    "Players": "2–5",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "cooking"
+   ],
+   "skills": [
+    "early-math",
+    "logic",
+    "problem-solving"
+   ],
+   "themes": [
+    "sushi",
+    "drafting"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 4210,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-rat-a-tat-cat",
+   "title": "Rat-a-Tat Cat",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 9.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 72,
+   "ageMaxMonths": 144,
+   "ageLabel": "6–12 yrs",
+   "image": "assets/img/catalog/gamewright-rat-a-tat-cat.jpg",
+   "shortDesc": "A memory-and-math card game where low cards win",
+   "description": "Players try to end the round holding the lowest-value cats while dodging the sneaky rats, using peeks, swaps and clever card powers. It quietly builds memory and number sense in a package kids ask to replay. An award-winning classic that's stayed a family favorite for decades.",
+   "specs": {
+    "Cards": "54",
+    "Players": "2–6",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "animals"
+   ],
+   "skills": [
+    "early-math",
+    "focus-attention",
+    "logic"
+   ],
+   "themes": [
+    "cats",
+    "memory"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1863,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "gamewright-forbidden-island",
+   "title": "Forbidden Island",
+   "brand": "Gamewright",
+   "category": "games",
+   "price": 24.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 120,
+   "ageMaxMonths": 180,
+   "ageLabel": "10–15 yrs",
+   "image": "assets/img/catalog/gamewright-forbidden-island.jpg",
+   "shortDesc": "Cooperative treasure hunt on a sinking island",
+   "description": "Players band together as a team of adventurers racing to collect four treasures before a mysterious island sinks beneath their feet. Everyone wins or loses together, making it a brilliant lesson in teamwork and planning. Beautifully produced and endlessly replayable for family game night.",
+   "specs": {
+    "Players": "2–4",
+    "Playtime": "30 min",
+    "Brand": "Gamewright"
+   },
+   "interests": [
+    "board-games",
+    "ocean-sealife"
+   ],
+   "skills": [
+    "problem-solving",
+    "logic",
+    "social-emotional"
+   ],
+   "themes": [
+    "adventure",
+    "cooperative"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 5290,
+   "inStock": true,
+   "source": "gamewright.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magna-tiles-magna-tiles-classic-100-piece-set",
+   "title": "Magna-Tiles Classic 100 Piece Set",
+   "brand": "Magna-Tiles",
+   "category": "stem",
+   "price": 119.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 144,
+   "ageLabel": "3–12 yr",
+   "image": "assets/img/catalog/magna-tiles-magna-tiles-classic-100-piece-set.jpg",
+   "shortDesc": "The original translucent magnetic tiles that click into endless builds.",
+   "description": "The award-winning set that started it all: 100 translucent, color-coded magnetic shapes that snap together into towers, houses, and 3D creations. Kids explore geometry, magnetism, and cause-and-effect while their imaginations run the show. A toy box staple that grows with your child.",
+   "specs": {
+    "Pieces": "100",
+    "Material": "BPA-free plastic with magnets",
+    "Brand": "Magna-Tiles"
+   },
+   "interests": [
+    "building-blocks",
+    "science"
+   ],
+   "skills": [
+    "stem",
+    "fine-motor",
+    "creativity",
+    "problem-solving",
+    "early-math"
+   ],
+   "themes": [
+    "magnetic",
+    "construction",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 4210,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magna-tiles-magna-tiles-metropolis-110-piece-set",
+   "title": "Magna-Tiles Metropolis 110 Piece Set",
+   "brand": "Magna-Tiles",
+   "category": "stem",
+   "price": 129.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 144,
+   "ageLabel": "3–12 yr",
+   "image": "assets/img/catalog/magna-tiles-magna-tiles-metropolis-110-piece-set.jpg",
+   "shortDesc": "Build a whole city with tiles, windows, doors, and car pieces.",
+   "description": "A 110-piece magnetic set packed with city-themed extras: window panels, doors, and wheeled car bases for building bustling metropolises. Kids design skyscrapers and neighborhoods while learning structure, balance, and spatial reasoning. Fully compatible with all other Magna-Tiles sets.",
+   "specs": {
+    "Pieces": "110",
+    "Material": "BPA-free plastic with magnets",
+    "Brand": "Magna-Tiles"
+   },
+   "interests": [
+    "building-blocks",
+    "construction",
+    "vehicles"
+   ],
+   "skills": [
+    "stem",
+    "creativity",
+    "problem-solving",
+    "fine-motor"
+   ],
+   "themes": [
+    "magnetic",
+    "city",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 892,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magna-tiles-magna-tiles-builder-32-piece-set",
+   "title": "Magna-Tiles Builder 32 Piece Set",
+   "brand": "Magna-Tiles",
+   "category": "stem",
+   "price": 49.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 144,
+   "ageLabel": "3–12 yr",
+   "image": "assets/img/catalog/magna-tiles-magna-tiles-builder-32-piece-set.jpg",
+   "shortDesc": "A perfect starter set of 32 magnetic building tiles.",
+   "description": "An ideal entry point into the world of Magna-Tiles, this 32-piece set gives young builders squares and triangles to start constructing. Easy magnetic connections mean quick wins and big smiles, while sneaky STEM learning happens with every tower. Add more sets as their creations grow.",
+   "specs": {
+    "Pieces": "32",
+    "Material": "BPA-free plastic with magnets",
+    "Brand": "Magna-Tiles"
+   },
+   "interests": [
+    "building-blocks",
+    "construction"
+   ],
+   "skills": [
+    "stem",
+    "fine-motor",
+    "creativity",
+    "problem-solving"
+   ],
+   "themes": [
+    "magnetic",
+    "starter-set",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1560,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magna-tiles-magna-tiles-builder-xl-50-piece-set",
+   "title": "Magna-Tiles Builder XL 50 Piece Set",
+   "brand": "Magna-Tiles",
+   "category": "stem",
+   "price": 99.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 144,
+   "ageLabel": "3–12 yr",
+   "image": "assets/img/catalog/magna-tiles-magna-tiles-builder-xl-50-piece-set.jpg",
+   "shortDesc": "Oversized magnetic tiles for big, bold builds.",
+   "description": "Everything kids love about Magna-Tiles, supersized. This 50-piece set of extra-large tiles lets little hands build towering structures and life-size creations with easy grip and satisfying clicks. Great for younger builders and group play, and compatible with the classic-size range.",
+   "specs": {
+    "Pieces": "50",
+    "Material": "BPA-free plastic with magnets",
+    "Brand": "Magna-Tiles"
+   },
+   "interests": [
+    "building-blocks",
+    "construction"
+   ],
+   "skills": [
+    "stem",
+    "gross-motor",
+    "fine-motor",
+    "creativity"
+   ],
+   "themes": [
+    "magnetic",
+    "oversized",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 640,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "magna-tiles-magna-tiles-rail-racers-deluxe-90-piece-set",
+   "title": "Magna-Tiles Rail Racers Deluxe 90 Piece Set",
+   "brand": "Magna-Tiles",
+   "category": "stem",
+   "price": 89.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 144,
+   "ageLabel": "3–12 yr",
+   "image": "assets/img/catalog/magna-tiles-magna-tiles-rail-racers-deluxe-90-piece-set.jpg",
+   "shortDesc": "Magnetic tiles meet build-your-own racetracks and cars.",
+   "description": "A Toy of the Year honoree that fuses magnetic building with high-speed play. This 90-piece deluxe set lets kids construct custom tracks, ramps, and tunnels, then send cars racing through their creations. A brilliant blend of engineering, physics, and pure fun.",
+   "specs": {
+    "Pieces": "90",
+    "Material": "BPA-free plastic with magnets",
+    "Brand": "Magna-Tiles"
+   },
+   "interests": [
+    "building-blocks",
+    "vehicles",
+    "construction"
+   ],
+   "skills": [
+    "stem",
+    "problem-solving",
+    "creativity",
+    "fine-motor"
+   ],
+   "themes": [
+    "magnetic",
+    "racetrack",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 415,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-ms-rachel-sort-count-nesting-blocks",
+   "title": "Ms. Rachel Sort & Count Nesting Blocks",
+   "brand": "Melissa & Doug",
+   "category": "stem",
+   "price": 32.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 60,
+   "ageLabel": "2–5 yr",
+   "image": "assets/img/catalog/melissa-doug-ms-rachel-sort-count-nesting-blocks.jpg",
+   "shortDesc": "Stack, sort, and count with beloved Ms. Rachel characters.",
+   "description": "Nesting blocks featuring Ms. Rachel and friends turn early math into playtime. Little ones stack the cubes into a tower, nest them inside each other, and match numbers, colors, and counting friends. A hands-on introduction to sorting, sequencing, and number sense.",
+   "specs": {
+    "Pieces": "10 nesting blocks",
+    "Material": "Sturdy cardboard",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "building-blocks",
+    "puzzles"
+   ],
+   "skills": [
+    "early-math",
+    "fine-motor",
+    "problem-solving",
+    "language"
+   ],
+   "themes": [
+    "counting",
+    "sorting",
+    "ms-rachel"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 210,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-classic-rainbow-learning-toys-stacker",
+   "title": "Classic Rainbow Learning Toys Stacker",
+   "brand": "Melissa & Doug",
+   "category": "stem",
+   "price": 29.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 60,
+   "ageLabel": "2–5 yr",
+   "image": "assets/img/catalog/melissa-doug-classic-rainbow-learning-toys-stacker.jpg",
+   "shortDesc": "A wooden rainbow stacker for sorting, counting, and building.",
+   "description": "This classic wooden rainbow toy invites open-ended learning: stack the arches into a rainbow, sort by color and size, or build bridges and tunnels. It quietly teaches early math, sequencing, and fine-motor control while sparking imaginative play. A heirloom-quality staple for any playroom.",
+   "specs": {
+    "Pieces": "Multi-piece wooden set",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "building-blocks",
+    "puzzles"
+   ],
+   "skills": [
+    "early-math",
+    "fine-motor",
+    "creativity",
+    "problem-solving"
+   ],
+   "themes": [
+    "rainbow",
+    "wooden",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 330,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-busy-builder-activity-blocks",
+   "title": "Busy Builder Activity Blocks",
+   "brand": "Sassy",
+   "category": "stem",
+   "price": 34.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 48,
+   "ageLabel": "1–4 yr",
+   "image": "assets/img/catalog/sassy-busy-builder-activity-blocks.jpg",
+   "shortDesc": "Textured, interlocking activity blocks that build STEM skills early.",
+   "description": "A set of chunky, easy-connect blocks designed for the youngest engineers. Each block features different textures, colors, and features to explore as toddlers stack, connect, and knock down. Early building play that grows hand-eye coordination and problem-solving from the first tower.",
+   "specs": {
+    "Pieces": "Activity block set",
+    "Material": "BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "building-blocks",
+    "sensory"
+   ],
+   "skills": [
+    "stem",
+    "fine-motor",
+    "hand-eye-coordination",
+    "problem-solving"
+   ],
+   "themes": [
+    "blocks",
+    "textured",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "just-because",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 150,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "manhattan-toy-winkel-rattle-sensory-teether",
+   "title": "Winkel Rattle & Sensory Teether",
+   "brand": "Manhattan Toy",
+   "category": "baby",
+   "price": 18.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "0–12 mo",
+   "image": "assets/img/catalog/manhattan-toy-winkel-rattle-sensory-teether.jpg",
+   "shortDesc": "A maze of soft tubes babies can grab from any angle.",
+   "description": "An iconic first toy, the Winkel is a looping labyrinth of soft, colorful tubes that little hands can grasp from every direction. Its shape is perfect for developing grip, and the internal rattle rewards every shake. Also soothes sore gums as a teether.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "BPA-free plastic tubes",
+    "Brand": "Manhattan Toy"
+   },
+   "interests": [
+    "sensory",
+    "music"
+   ],
+   "skills": [
+    "fine-motor",
+    "hand-eye-coordination",
+    "sensory"
+   ],
+   "themes": [
+    "rattle",
+    "teether",
+    "grasping"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1120,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "manhattan-toy-skwish-classic-rattle-teether",
+   "title": "Skwish Classic Rattle & Teether",
+   "brand": "Manhattan Toy",
+   "category": "baby",
+   "price": 18.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "0–12 mo",
+   "image": "assets/img/catalog/manhattan-toy-skwish-classic-rattle-teether.jpg",
+   "shortDesc": "A squishable wooden ball that springs back into shape.",
+   "description": "Built on clever tension so it collapses in a baby's grip and pops right back, the Skwish delights with movement, sound, and sliding beads. Its open frame is easy for tiny hands to hold, encouraging reach, grasp, and discovery. A modern classic in cheerful colors.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "Wood with elastic and non-toxic paint",
+    "Brand": "Manhattan Toy"
+   },
+   "interests": [
+    "sensory",
+    "music"
+   ],
+   "skills": [
+    "fine-motor",
+    "hand-eye-coordination",
+    "sensory"
+   ],
+   "themes": [
+    "rattle",
+    "teether",
+    "wooden"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 980,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "manhattan-toy-atom-rattle-sensory-teether",
+   "title": "Atom Rattle & Sensory Teether",
+   "brand": "Manhattan Toy",
+   "category": "baby",
+   "price": 16.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "0–12 mo",
+   "image": "assets/img/catalog/manhattan-toy-atom-rattle-sensory-teether.jpg",
+   "shortDesc": "Interlocking rings and beads babies love to twist and grab.",
+   "description": "A cluster of colorful looping rings and sliding beads designed for tiny grasping hands. The Atom's varied textures and rattling sounds keep babies engaged while building grip strength and hand-eye coordination. Lightweight, safe, and easy to toss in the diaper bag.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "BPA-free plastic",
+    "Brand": "Manhattan Toy"
+   },
+   "interests": [
+    "sensory",
+    "music"
+   ],
+   "skills": [
+    "fine-motor",
+    "hand-eye-coordination",
+    "sensory"
+   ],
+   "themes": [
+    "rattle",
+    "teether",
+    "grasping"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 540,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "manhattan-toy-wimmer-ferguson-sensory-ball",
+   "title": "Wimmer-Ferguson Sensory Ball",
+   "brand": "Manhattan Toy",
+   "category": "baby",
+   "price": 12.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 3,
+   "ageMaxMonths": 18,
+   "ageLabel": "3–18 mo",
+   "image": "assets/img/catalog/manhattan-toy-wimmer-ferguson-sensory-ball.jpg",
+   "shortDesc": "A soft high-contrast ball made for little hands to grab and roll.",
+   "description": "Part of the research-backed Wimmer-Ferguson line, this soft sensory ball combines bold high-contrast patterns with easy-grip loops. Babies track the striking visuals, then reach, grasp, and roll to build motor skills. Lightweight and squeezable for tummy time and beyond.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "Soft fabric",
+    "Brand": "Manhattan Toy"
+   },
+   "interests": [
+    "sensory"
+   ],
+   "skills": [
+    "sensory",
+    "gross-motor",
+    "hand-eye-coordination",
+    "fine-motor"
+   ],
+   "themes": [
+    "high-contrast",
+    "tummy-time",
+    "grasping"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 260,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-twisty-tower-ring-stacker",
+   "title": "Twisty Tower Ring Stacker",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 14.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 6,
+   "ageMaxMonths": 24,
+   "ageLabel": "6–24 mo",
+   "image": "assets/img/catalog/sassy-twisty-tower-ring-stacker.jpg",
+   "shortDesc": "A wobbly, twisty ring stacker that teaches size and order.",
+   "description": "A playful twist on the classic ring stacker, with a curvy post and colorful rings that spin and wobble as babies build. Sorting the rings by size builds early problem-solving, while the grasping and stacking sharpen fine-motor skills. Bright, chunky, and endlessly re-stackable.",
+   "specs": {
+    "Pieces": "Ring stacker set",
+    "Material": "BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "building-blocks",
+    "sensory"
+   ],
+   "skills": [
+    "fine-motor",
+    "early-math",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "stacking",
+    "rings",
+    "sorting"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 470,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-my-first-rattles-newborn-gift-set",
+   "title": "My First Rattles Newborn Gift Set",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 19.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 6,
+   "ageLabel": "0–6 mo",
+   "image": "assets/img/catalog/sassy-my-first-rattles-newborn-gift-set.jpg",
+   "shortDesc": "A newborn-ready set of easy-grasp first rattles.",
+   "description": "A thoughtfully curated set of lightweight rattles sized just right for a newborn's first grip. Gentle sounds, high-contrast patterns, and soft textures introduce baby to cause-and-effect and early sensory play. A go-to baby-shower gift that's ready from day one.",
+   "specs": {
+    "Pieces": "Multi-rattle gift set",
+    "Material": "BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "sensory",
+    "music"
+   ],
+   "skills": [
+    "fine-motor",
+    "sensory",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "rattle",
+    "newborn",
+    "gift-set"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 380,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-rainbow-ring-drop",
+   "title": "Rainbow Ring Drop",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 19.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 6,
+   "ageMaxMonths": 24,
+   "ageLabel": "6–24 mo",
+   "image": "assets/img/catalog/sassy-rainbow-ring-drop.jpg",
+   "shortDesc": "Drop the rings and watch them spin down the rainbow tower.",
+   "description": "Babies drop colorful rings into the top and delight as they spin, click, and cascade down. This cause-and-effect toy builds hand-eye coordination and teaches colors and counting along the way. Endlessly repeatable play that keeps little ones happily engaged.",
+   "specs": {
+    "Pieces": "Ring drop tower set",
+    "Material": "BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "sensory",
+    "puzzles"
+   ],
+   "skills": [
+    "hand-eye-coordination",
+    "fine-motor",
+    "early-math",
+    "problem-solving"
+   ],
+   "themes": [
+    "rings",
+    "cause-and-effect",
+    "colors"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 290,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-sensory-stations-baby-play-gym",
+   "title": "Sensory Stations Baby Play Gym",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 79.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "0–12 mo",
+   "image": "assets/img/catalog/sassy-sensory-stations-baby-play-gym.jpg",
+   "shortDesc": "A play gym packed with dangling toys and tummy-time fun.",
+   "description": "A developmental play gym loaded with high-contrast hanging toys, textures, and a mirror to spark discovery from newborn onward. Babies bat, reach, and grasp on their backs, then flip over for supported tummy time. Grows with your baby through the whole first year.",
+   "specs": {
+    "Pieces": "Play gym with hanging toys",
+    "Material": "Fabric and BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "sensory",
+    "music"
+   ],
+   "skills": [
+    "gross-motor",
+    "hand-eye-coordination",
+    "sensory",
+    "fine-motor"
+   ],
+   "themes": [
+    "play-gym",
+    "tummy-time",
+    "high-contrast"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 205,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-stack-nest-cups",
+   "title": "Stack & Nest Cups",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 11.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 6,
+   "ageMaxMonths": 24,
+   "ageLabel": "6–24 mo",
+   "image": "assets/img/catalog/sassy-stack-nest-cups.jpg",
+   "shortDesc": "Classic stacking cups for towers, nesting, and bath play.",
+   "description": "A timeless set of colorful cups that nest inside each other or stack into a tall tower. Each cup features a different base for water play and sensory discovery. Babies learn size ordering, cause-and-effect, and fine-motor control through endless stack-and-knock-down fun.",
+   "specs": {
+    "Pieces": "Nesting cup set",
+    "Material": "BPA-free plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "building-blocks",
+    "sensory"
+   ],
+   "skills": [
+    "fine-motor",
+    "early-math",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "stacking",
+    "nesting",
+    "bath"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because",
+    "birthday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 610,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "sassy-triple-loop-teether",
+   "title": "Triple Loop Teether",
+   "brand": "Sassy",
+   "category": "baby",
+   "price": 12.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "0–12 mo",
+   "image": "assets/img/catalog/sassy-triple-loop-teether.jpg",
+   "shortDesc": "Three textured loops to soothe sore gums from any angle.",
+   "description": "Three interlocking, textured loops give teething babies plenty of soothing surfaces to chew, plus an easy shape for little hands to grasp. Lightweight and safe, it doubles as a sensory rattle that keeps baby busy. A diaper-bag essential for the teething months.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "BPA-free silicone and plastic",
+    "Brand": "Sassy"
+   },
+   "interests": [
+    "sensory"
+   ],
+   "skills": [
+    "fine-motor",
+    "sensory",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "teether",
+    "textured",
+    "grasping"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 340,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-shape-sorting-cube-classic-wooden-toy",
+   "title": "Shape-Sorting Cube - Classic Wooden Toy",
+   "brand": "Melissa & Doug",
+   "category": "wooden",
+   "price": 20.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 48,
+   "ageLabel": "2–4 yrs",
+   "image": "assets/img/catalog/melissa-doug-shape-sorting-cube-classic-wooden-toy.jpg",
+   "shortDesc": "12 chunky shapes drop with a satisfying clunk into a natural-wood cube.",
+   "description": "A timeless first sorter with 12 vibrant wooden shapes and a sturdy hardwood cube. Little ones twist, turn, and match each block to its matching hole, building shape and color recognition. A classic that lasts through years of play.",
+   "specs": {
+    "Pieces": "13",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "building-blocks",
+    "puzzles"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "classic",
+    "sorting",
+    "shapes"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "baby-shower"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 4210,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-first-bead-maze",
+   "title": "First Bead Maze",
+   "brand": "Melissa & Doug",
+   "category": "wooden",
+   "price": 20.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "1–3 yrs",
+   "image": "assets/img/catalog/melissa-doug-first-bead-maze.jpg",
+   "shortDesc": "Chunky wooden beads glide along colorful looping wire tracks.",
+   "description": "A sturdy wooden bead maze that keeps busy hands moving as toddlers slide beads along swooping wire paths. It builds hand-eye coordination and introduces colors and counting. Perfectly sized for little fingers just learning to explore.",
+   "specs": {
+    "Pieces": "1",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "building-blocks",
+    "sensory"
+   ],
+   "skills": [
+    "fine-motor",
+    "hand-eye-coordination",
+    "early-math"
+   ],
+   "themes": [
+    "classic",
+    "beads",
+    "colors"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 1360,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "melissa-doug-stack-sort-pound-wooden-toy-collection",
+   "title": "Stack, Sort & Pound Wooden Toy Collection",
+   "brand": "Melissa & Doug",
+   "category": "wooden",
+   "price": 52.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 60,
+   "ageLabel": "2–5 yrs",
+   "image": "assets/img/catalog/melissa-doug-stack-sort-pound-wooden-toy-collection.jpg",
+   "shortDesc": "Three wooden classics: 100 blocks, a shape cube, and a pounding bench.",
+   "description": "A bundle of three beloved wooden toys in one set: 100 brightly colored building blocks, a 14-piece shape-sorting cube, and a 10-piece pound-a-peg bench with mallet. Hours of stacking, sorting, and pounding that grow with your child.",
+   "specs": {
+    "Pieces": "124",
+    "Material": "Wood",
+    "Brand": "Melissa & Doug"
+   },
+   "interests": [
+    "building-blocks",
+    "construction",
+    "puzzles"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "hand-eye-coordination",
+    "early-math"
+   ],
+   "themes": [
+    "classic",
+    "bundle",
+    "stacking"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 890,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "plantoys-castle-blocks-set",
+   "title": "Castle Blocks Set",
+   "brand": "PlanToys",
+   "category": "wooden",
+   "price": 59.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/plantoys-castle-blocks-set.jpg",
+   "shortDesc": "Sustainable rubberwood castle blocks for open-ended kingdom building.",
+   "description": "Build turrets, gates, and grand halls with this beautifully crafted castle block set from PlanToys. Made from sustainable rubberwood with soft, natural-toned pieces, it invites open-ended imaginative play. A heirloom-quality set that sparks storytelling.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "PlanToys"
+   },
+   "interests": [
+    "building-blocks",
+    "construction",
+    "fantasy-magic",
+    "pretend-play"
+   ],
+   "skills": [
+    "creativity",
+    "imagination",
+    "fine-motor",
+    "problem-solving"
+   ],
+   "themes": [
+    "castle",
+    "eco",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 142,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "grimm-s-tiny-art-collection-block-sets",
+   "title": "Tiny Art Collection Block Sets",
+   "brand": "Grimm's",
+   "category": "wooden",
+   "price": 125.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 120,
+   "ageLabel": "3–10 yrs",
+   "image": "assets/img/catalog/grimm-s-tiny-art-collection-block-sets.jpg",
+   "shortDesc": "Rainbow-hued wooden art blocks for building tiny worlds.",
+   "description": "Grimm's signature rainbow wooden blocks in a collectible art-inspired set, hand-crafted in Germany with non-toxic water-based stains. The luminous colors and organic shapes invite mandalas, towers, and free-form creations. A stunning heirloom for open-ended Waldorf-style play.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "Grimm's"
+   },
+   "interests": [
+    "building-blocks",
+    "art",
+    "nature"
+   ],
+   "skills": [
+    "creativity",
+    "imagination",
+    "fine-motor",
+    "problem-solving"
+   ],
+   "themes": [
+    "rainbow",
+    "waldorf",
+    "heirloom"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 98,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "uncle-goose-woodland-watercolor-abc-blocks",
+   "title": "Woodland Watercolor ABC Blocks",
+   "brand": "Uncle Goose",
+   "category": "wooden",
+   "price": 28.0,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2–6 yrs",
+   "image": "assets/img/catalog/uncle-goose-woodland-watercolor-abc-blocks.jpg",
+   "shortDesc": "Heirloom alphabet blocks in soft watercolor woodland hues.",
+   "description": "Classic embossed ABC blocks handmade in the USA from sustainably harvested basswood, finished in gentle watercolor tones. Stack, spell, and explore letters, numbers, and woodland friends. Built to be passed down for generations.",
+   "specs": {
+    "Pieces": "28",
+    "Material": "Wood",
+    "Brand": "Uncle Goose"
+   },
+   "interests": [
+    "building-blocks",
+    "reading",
+    "nature"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "fine-motor",
+    "early-math"
+   ],
+   "themes": [
+    "alphabet",
+    "woodland",
+    "heirloom"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "baby-shower",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 210,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "haba-colorful-triangle-wooden-block-game",
+   "title": "Colorful Triangle Wooden Block Game",
+   "brand": "HABA",
+   "category": "wooden",
+   "price": 49.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/haba-colorful-triangle-wooden-block-game.jpg",
+   "shortDesc": "Bright wooden triangles for balancing, stacking, and pattern play.",
+   "description": "A vibrant set of wooden triangle blocks from HABA that challenges kids to build, balance, and create colorful patterns. Made in Germany from beechwood with cheerful non-toxic finishes. Great solo or as a lively group stacking game.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "HABA"
+   },
+   "interests": [
+    "building-blocks",
+    "puzzles",
+    "board-games"
+   ],
+   "skills": [
+    "fine-motor",
+    "problem-solving",
+    "logic",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "geometric",
+    "colors",
+    "balancing"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 76,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "goki-rainbow-building-blocks",
+   "title": "Rainbow Building Blocks",
+   "brand": "Goki",
+   "category": "wooden",
+   "price": 99.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 84,
+   "ageLabel": "2–7 yrs",
+   "image": "assets/img/catalog/goki-rainbow-building-blocks.jpg",
+   "shortDesc": "A big set of rainbow wooden blocks for endless creations.",
+   "description": "A generous collection of smooth wooden blocks in every color of the rainbow, made by Goki for open-ended building. Kids sort by color, stack towers, and invent their own structures. A vibrant, durable set that grows with imaginative play.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "Goki"
+   },
+   "interests": [
+    "building-blocks",
+    "construction",
+    "art"
+   ],
+   "skills": [
+    "creativity",
+    "imagination",
+    "fine-motor",
+    "early-math"
+   ],
+   "themes": [
+    "rainbow",
+    "colors",
+    "open-ended"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 64,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "miniland-wooden-castle-building-blocks-set",
+   "title": "Wooden Castle Building Blocks Set",
+   "brand": "Miniland",
+   "category": "wooden",
+   "price": 69.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2–6 yrs",
+   "image": "assets/img/catalog/miniland-wooden-castle-building-blocks-set.jpg",
+   "shortDesc": "Stackable wooden castle blocks in soft nature-inspired tones.",
+   "description": "Miniland's wooden castle set features chunky, easy-to-grip blocks in gentle earthy colors for building fortresses and towers. The rounded shapes are perfect for little hands learning to balance and stack. Encourages creativity and steady fine-motor growth.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "Miniland"
+   },
+   "interests": [
+    "building-blocks",
+    "construction",
+    "fantasy-magic"
+   ],
+   "skills": [
+    "fine-motor",
+    "creativity",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "castle",
+    "stacking",
+    "natural"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 41,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bannor-toys-maple-abc-block-set",
+   "title": "Maple ABC Block Set",
+   "brand": "Bannor Toys",
+   "category": "wooden",
+   "price": 69.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 18,
+   "ageMaxMonths": 60,
+   "ageLabel": "1.5–5 yrs",
+   "image": "assets/img/catalog/bannor-toys-maple-abc-block-set.jpg",
+   "shortDesc": "Handmade solid maple alphabet blocks with a smooth natural finish.",
+   "description": "Heirloom-quality ABC blocks handcrafted in the USA from solid maple by Bannor Toys, finished with child-safe natural oils. Engraved letters, numbers, and pictures make early literacy tactile and fun. Sturdy enough to be treasured for years.",
+   "specs": {
+    "Pieces": "Block set",
+    "Material": "Wood",
+    "Brand": "Bannor Toys"
+   },
+   "interests": [
+    "building-blocks",
+    "reading"
+   ],
+   "skills": [
+    "literacy",
+    "language",
+    "fine-motor",
+    "early-math"
+   ],
+   "themes": [
+    "alphabet",
+    "heirloom",
+    "handmade"
+   ],
+   "giftOccasions": [
+    "baby-shower",
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 118,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-fire-and-rescue-wooden-train-set-39-pieces",
+   "title": "Fire and Rescue Wooden Train Set (39 Pieces)",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 56.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-fire-and-rescue-wooden-train-set-39-pieces.jpg",
+   "shortDesc": "39-piece wooden fire-rescue railway with station, tracks, and engines.",
+   "description": "Race to the rescue with this 39-piece wooden fire-and-rescue railway from Bigjigs. It includes fire-themed buildings, vehicles, magnetic trains, and curved and straight tracks that connect to other major wooden railway brands. Endless firefighting adventures await.",
+   "specs": {
+    "Pieces": "39",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "vehicles",
+    "construction",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "fire-rescue",
+    "railway",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 88,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-medieval-train-set-33-pieces",
+   "title": "Medieval Train Set (33 Pieces)",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 31.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-medieval-train-set-33-pieces.jpg",
+   "shortDesc": "33-piece medieval-themed wooden railway with castle and knights.",
+   "description": "Journey to a wooden kingdom with this 33-piece medieval railway from Bigjigs. Magnetic trains roll past castle towers and drawbridges along tracks that link with all major wooden train systems. A castle-and-rails mashup that fires up imaginative play.",
+   "specs": {
+    "Pieces": "33",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "fantasy-magic",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving"
+   ],
+   "themes": [
+    "medieval",
+    "castle",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 54,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-monster-train-set-50-pieces",
+   "title": "Monster Train Set (50 Pieces)",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 49.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-monster-train-set-50-pieces.jpg",
+   "shortDesc": "50-piece monster-themed wooden railway with spooky tunnels.",
+   "description": "A playful, slightly spooky 50-piece wooden railway packed with monster trains, googly-eyed tunnels, and winding tracks. Fully compatible with other wooden train brands, it delivers big adventures and giggles. Great for growing a bigger layout over time.",
+   "specs": {
+    "Pieces": "50",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "fantasy-magic",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "monsters",
+    "railway",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 47,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-farmyard-train-with-magnetic-couplings",
+   "title": "Farmyard Train with Magnetic Couplings",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 15.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2–6 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-farmyard-train-with-magnetic-couplings.jpg",
+   "shortDesc": "Charming wooden farm train with magnetic-coupling animal carriages.",
+   "description": "A cheerful wooden farmyard train whose carriages snap together with easy magnetic couplings. Little conductors haul friendly farm animals along any wooden track. A budget-friendly add-on that fits right into an existing railway.",
+   "specs": {
+    "Pieces": "Train + carriages",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "animals",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "farm",
+    "animals",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 132,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-flying-scotsman-wooden-train-engine",
+   "title": "Flying Scotsman Wooden Train Engine",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-flying-scotsman-wooden-train-engine.jpg",
+   "shortDesc": "Heritage Flying Scotsman engine with magnetic couplings.",
+   "description": "A collectible wooden replica of the legendary Flying Scotsman locomotive, part of the Bigjigs Heritage Collection. Magnetic couplings let it pull carriages along any standard wooden track. A handsome engine for train-loving kids and nostalgic grown-ups alike.",
+   "specs": {
+    "Pieces": "1 engine",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "vehicles"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "heritage",
+    "locomotive",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 96,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-mallard-wooden-train-engine",
+   "title": "Mallard Wooden Train Engine",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 16.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-mallard-wooden-train-engine.jpg",
+   "shortDesc": "Heritage Mallard steam engine with magnetic couplings.",
+   "description": "A finely detailed wooden Mallard locomotive from the Bigjigs Heritage Collection, honoring the record-breaking steam engine. Magnetic couplings connect it to carriages on any wooden railway. A classic collectible that rolls straight into playtime.",
+   "specs": {
+    "Pieces": "1 engine",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "vehicles"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "heritage",
+    "locomotive",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 73,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "tidlo-city-of-london-wooden-train-set-50-pieces",
+   "title": "City of London Wooden Train Set (50 Pieces)",
+   "brand": "Tidlo",
+   "category": "railway",
+   "price": 59.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/tidlo-city-of-london-wooden-train-set-50-pieces.jpg",
+   "shortDesc": "50-piece London railway with Underground train and landmarks.",
+   "description": "Explore the capital with this 50-piece wooden City of London railway from Tidlo, featuring an Underground train, famous landmarks, and plenty of track. Compatible with other wooden rail systems for endless expansion. A rich small-world set for imaginative city play.",
+   "specs": {
+    "Pieces": "50",
+    "Material": "Wood",
+    "Brand": "Tidlo"
+   },
+   "interests": [
+    "trains",
+    "vehicles",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "city",
+    "london",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 39,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "tender-leaf-toys-wild-pines-wooden-train-set",
+   "title": "Wild Pines Wooden Train Set",
+   "brand": "Tender Leaf Toys",
+   "category": "railway",
+   "price": 125.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 96,
+   "ageLabel": "3–8 yrs",
+   "image": "assets/img/catalog/tender-leaf-toys-wild-pines-wooden-train-set.jpg",
+   "shortDesc": "Premium wooden forest railway with trees, tunnels, and a big layout.",
+   "description": "A beautifully crafted wooden forest railway from Tender Leaf, complete with pine trees, tunnels, bridges, and a winding track through the wild pines. Its natural finishes and detailed scenery make it a standout heirloom set. Perfect for immersive, nature-themed train adventures.",
+   "specs": {
+    "Pieces": "Multi-piece set",
+    "Material": "Wood",
+    "Brand": "Tender Leaf Toys"
+   },
+   "interests": [
+    "trains",
+    "nature",
+    "pretend-play",
+    "outdoors"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "forest",
+    "scenery",
+    "heirloom"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 52,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-fairy-pink-wooden-train-set-35-pieces",
+   "title": "Fairy Pink Wooden Train Set (35 Pieces)",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 30.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "3–7 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-fairy-pink-wooden-train-set-35-pieces.jpg",
+   "shortDesc": "35-piece pink fairy-themed wooden railway with magical scenery.",
+   "description": "A whimsical 35-piece wooden fairy railway from Bigjigs in soft pinks, with a figure-of-eight track, fairy-tale buildings, and magnetic trains. It links up with all major wooden rail systems for bigger magical worlds. A sparkly favorite for fantasy-loving little ones.",
+   "specs": {
+    "Pieces": "35",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "fantasy-magic",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "problem-solving",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "fairy",
+    "magical",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday"
+   ],
+   "genderAppeal": "girls",
+   "rating": 5,
+   "reviews": 61,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  },
+  {
+   "id": "bigjigs-rail-construction-wooden-train-with-2-loads",
+   "title": "Construction Wooden Train with 2 Loads",
+   "brand": "Bigjigs Rail",
+   "category": "railway",
+   "price": 14.99,
+   "msrp": null,
+   "currency": "USD",
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "2–6 yrs",
+   "image": "assets/img/catalog/bigjigs-rail-construction-wooden-train-with-2-loads.jpg",
+   "shortDesc": "Wooden construction train with 3 carriages and removable loads.",
+   "description": "A hard-working wooden construction train from Bigjigs with an engine, three carriages, and two removable cargo loads. Magnetic couplings make hooking up and hauling easy for small hands. A great low-cost expansion for any wooden railway.",
+   "specs": {
+    "Pieces": "Train + 3 carriages",
+    "Material": "Wood",
+    "Brand": "Bigjigs Rail"
+   },
+   "interests": [
+    "trains",
+    "construction",
+    "vehicles",
+    "pretend-play"
+   ],
+   "skills": [
+    "fine-motor",
+    "imagination",
+    "hand-eye-coordination"
+   ],
+   "themes": [
+    "construction",
+    "cargo",
+    "brio-compatible"
+   ],
+   "giftOccasions": [
+    "birthday",
+    "holiday",
+    "just-because"
+   ],
+   "genderAppeal": "neutral",
+   "rating": 5,
+   "reviews": 84,
+   "inStock": true,
+   "source": "cdn.shopify.com",
+   "sku": null,
+   "shopifyId": null
+  }
+ ]
+}

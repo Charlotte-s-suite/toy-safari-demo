@@ -1,0 +1,26 @@
+{
+  "_comment": "Toy Safari category manifest. `id` is the slug used in products.json product.category. hero = header image (real store-frame photo where we have one, honest 'representative' otherwise).",
+  "categories": [
+    { "id": "wooden",   "name": "Wooden Toys",              "emoji": "🪵", "tagline": "Blocks, stackers & Montessori classics",  "hero": "assets/img/frames/f02.jpg", "order": 1 },
+    { "id": "railway",  "name": "Wooden Railway",           "emoji": "🚂", "tagline": "BRIO-style trains, tracks & engines",     "hero": "assets/img/frames/f03.jpg", "order": 2 },
+    { "id": "stem",     "name": "Educational & STEM",       "emoji": "🧠", "tagline": "Science, coding, magnets & math",         "hero": "assets/img/frames/f06.jpg", "order": 3 },
+    { "id": "baby",     "name": "Baby & Toddler",           "emoji": "🍼", "tagline": "First toys, sensory & stackers",          "hero": "assets/img/frames/f11.jpg", "order": 4 },
+    { "id": "puzzles",  "name": "Puzzles",                  "emoji": "🧩", "tagline": "Jigsaws, floor puzzles & brain teasers",  "hero": "assets/img/frames/f14.jpg", "order": 5 },
+    { "id": "games",    "name": "Board Games & Party",      "emoji": "🎲", "tagline": "Family game night & party favorites",     "hero": "assets/img/frames/f04.jpg", "order": 6 },
+    { "id": "plush",    "name": "Plush & Stuffed Animals",  "emoji": "🧸", "tagline": "Cuddly friends from Jellycat to unicorns","hero": "assets/img/frames/f01.jpg", "order": 7 },
+    { "id": "bath",     "name": "Bath, Water & Beach",      "emoji": "🏖️", "tagline": "Splash, sand & summer play",              "hero": "assets/img/frames/f01.jpg", "order": 8 },
+    { "id": "pretend",  "name": "Pretend Play & Dress-Up",  "emoji": "🎭", "tagline": "Kitchens, costumes & role-play",          "hero": "assets/img/frames/f09.jpg", "order": 9 },
+    { "id": "arts",     "name": "Arts & Crafts",            "emoji": "🎨", "tagline": "Make, color, bead & create",              "hero": "assets/img/shelves/s_arts.jpg", "order": 10 },
+    { "id": "figures",  "name": "Modern Action Figures",    "emoji": "🦸", "tagline": "Marvel, DC, Star Wars & Funko",           "hero": "assets/img/frames/f17.jpg", "order": 11 },
+    { "id": "cards",    "name": "Trading Cards & TCG",      "emoji": "🃏", "tagline": "Pokémon, sports & collectible packs",     "hero": "assets/img/frames/f19.jpg", "order": 12 },
+    { "id": "diecast",  "name": "Die-Cast & Vehicles",      "emoji": "🏎️", "tagline": "Hot Wheels, trucks & ride-ons",           "hero": "assets/img/frames/f11.jpg", "order": 13 },
+    { "id": "books",    "name": "Children's Books",         "emoji": "📚", "tagline": "Board books to early readers",            "hero": "assets/img/frames/f10.jpg", "order": 14 },
+    { "id": "vault",    "name": "Vintage Vault",            "emoji": "💎", "tagline": "Authenticated collector pieces",          "hero": "assets/img/frames/f07.jpg", "order": 15, "collector": true }
+  ],
+  "vocab": {
+    "interests": ["animals","dinosaurs","space","vehicles","trains","construction","building-blocks","art","music","science","nature","dolls","pretend-play","cooking","dress-up","sports","ocean-sealife","fantasy-magic","superheroes","puzzles","reading","board-games","sensory","coding-robotics","outdoors","trading-cards"],
+    "skills": ["fine-motor","gross-motor","logic","creativity","imagination","language","social-emotional","stem","focus-attention","problem-solving","early-math","literacy","hand-eye-coordination"],
+    "giftOccasions": ["birthday","holiday","baby-shower","just-because","back-to-school"],
+    "genderAppeal": ["neutral","girls","boys"]
+  }
+}
