@@ -21,7 +21,25 @@
 html{scroll-behavior:smooth}
 body{
   margin:0; font-family:'Nunito',system-ui,sans-serif; color:var(--ink);
-  background:var(--cream); -webkit-font-smoothing:antialiased; line-height:1.5;
+  background:#0e2016; -webkit-font-smoothing:antialiased; line-height:1.5;
+}
+/* ---------- immersive rainforest background ----------
+   Width-fit (background-size:100% auto) so the lush flowered edges stay framed at
+   every viewport width; --forest-y drives the vertical pan (scroll effect plugs in here). */
+body::before{
+  content:''; position:fixed; inset:0; z-index:-2;
+  background:url('../img/bg/rainforest.jpg') 50% var(--forest-y,0%) / 100% auto no-repeat;
+  background-color:#0e2016;
+}
+body::after{ /* veil: calms the centre column for legibility, stays clear at the edges so the lush foliage frame keeps its punch */
+  content:''; position:fixed; inset:0; z-index:-1; pointer-events:none;
+  background:
+    linear-gradient(90deg, rgba(251,248,241,.08), rgba(251,248,241,.46) 27%, rgba(251,248,241,.46) 73%, rgba(251,248,241,.08)),
+    linear-gradient(180deg, rgba(251,248,241,.18), rgba(251,248,241,.34));
+}
+/* section labels float directly on the forest — a soft cream halo keeps them crisp */
+.sec-head h2, .sec-head p, .eyebrow, .sec-head .link, .cat-sec-head h2, .cat-sec-head .tl{
+  text-shadow:0 1px 12px rgba(251,248,241,.85), 0 1px 3px rgba(251,248,241,.9);
 }
 h1,h2,h3,h4,.disp{font-family:'Fredoka',sans-serif; font-weight:600; line-height:1.05; margin:0; letter-spacing:-.01em}
 a{color:inherit;text-decoration:none}
@@ -93,8 +111,8 @@ body.mega-open .mega{display:block}
 .hero{position:relative;overflow:hidden;
   background:
     radial-gradient(1200px 500px at 80% -10%, rgba(255,161,0,.16), transparent 60%),
-    radial-gradient(900px 500px at 0% 110%, rgba(63,127,214,.14), transparent 55%),
-    linear-gradient(180deg,#fffdf8,#f4faf0)}
+    radial-gradient(900px 500px at 0% 110%, rgba(63,127,214,.12), transparent 55%),
+    linear-gradient(180deg, rgba(255,253,248,.30), rgba(244,250,240,.16))}
 .hero .leaf{position:absolute;font-size:200px;opacity:.06;user-select:none}
 .hero-grid{display:grid;grid-template-columns:1fr;gap:30px;align-items:center;padding:54px 0 60px}
 .hero h1{font-size:64px;font-weight:700;color:var(--green-deep);letter-spacing:-.02em}
