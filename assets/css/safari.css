@@ -83,7 +83,9 @@ img{display:block;max-width:100%}
 
 /* nav strip with mega menu */
 .nav{border-top:1px solid var(--line);background:#fff}
-.nav-row{display:flex;align-items:center;gap:6px;height:52px}
+.nav-row{display:flex;align-items:center;gap:6px;height:52px;
+  overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.nav-row::-webkit-scrollbar{display:none}
 .nav-row a{font-family:'Fredoka';font-weight:500;font-size:14.5px;color:var(--ink-soft);padding:8px 13px;
   border-radius:9px;display:flex;align-items:center;gap:7px}
 .nav-row a:hover{background:var(--green-soft);color:var(--green-deep)}
