@@ -1,0 +1,245 @@
+{
+ "assets/brand/logo-mark-poster.png": {
+  "hash": "5fc5cf4ae43d0a05",
+  "avif": "logo-mark-poster.avif",
+  "webp": "logo-mark-poster.webp",
+  "w": 240,
+  "h": 226,
+  "srcKb": 71,
+  "avifKb": 7
+ },
+ "assets/img/frames/f02.jpg": {
+  "hash": "dfa0b1764cfff3e9",
+  "avif": "f02.avif",
+  "webp": "f02.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 76,
+  "avifKb": 20
+ },
+ "assets/img/frames/f03.jpg": {
+  "hash": "0b8668da5ecedae1",
+  "avif": "f03.avif",
+  "webp": "f03.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 86,
+  "avifKb": 23
+ },
+ "assets/img/frames/f06.jpg": {
+  "hash": "92b3f327b41d7847",
+  "avif": "f06.avif",
+  "webp": "f06.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 77,
+  "avifKb": 23
+ },
+ "assets/img/frames/f11.jpg": {
+  "hash": "9441513a968e03d1",
+  "avif": "f11.avif",
+  "webp": "f11.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 114,
+  "avifKb": 32
+ },
+ "assets/img/frames/f14.jpg": {
+  "hash": "a5e4af9971c8367a",
+  "avif": "f14.avif",
+  "webp": "f14.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 139,
+  "avifKb": 37
+ },
+ "assets/img/frames/f01.jpg": {
+  "hash": "edde4cca7e0fa6b3",
+  "avif": "f01.avif",
+  "webp": "f01.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 81,
+  "avifKb": 24
+ },
+ "assets/img/frames/f09.jpg": {
+  "hash": "bd4dd408683b0eee",
+  "avif": "f09.avif",
+  "webp": "f09.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 78,
+  "avifKb": 22
+ },
+ "assets/img/frames/f17.jpg": {
+  "hash": "c150ebaaca6eae0c",
+  "avif": "f17.avif",
+  "webp": "f17.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 106,
+  "avifKb": 30
+ },
+ "assets/img/frames/f10.jpg": {
+  "hash": "079cac117f201700",
+  "avif": "f10.avif",
+  "webp": "f10.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 71,
+  "avifKb": 19
+ },
+ "assets/img/frames/f19.jpg": {
+  "hash": "0099f4c17ecbb6c8",
+  "avif": "f19.avif",
+  "webp": "f19.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 110,
+  "avifKb": 30
+ },
+ "assets/img/frames/f04.jpg": {
+  "hash": "04b87f87b05b1fee",
+  "avif": "f04.avif",
+  "webp": "f04.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 46,
+  "avifKb": 13
+ },
+ "assets/img/frames/f07.jpg": {
+  "hash": "1d3553e6c5d35026",
+  "avif": "f07.avif",
+  "webp": "f07.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 107,
+  "avifKb": 31
+ },
+ "assets/img/frames/f16.jpg": {
+  "hash": "6a875a77d14eb6e8",
+  "avif": "f16.avif",
+  "webp": "f16.webp",
+  "w": 540,
+  "h": 960,
+  "srcKb": 70,
+  "avifKb": 21
+ },
+ "assets/img/stock/pizza.jpg": {
+  "hash": "291eb2525322ee50",
+  "avif": "pizza.avif",
+  "webp": "pizza.webp",
+  "w": 645,
+  "h": 645,
+  "srcKb": 140,
+  "avifKb": 12
+ },
+ "assets/img/stock/maglev.jpg": {
+  "hash": "3d1df569a4be155f",
+  "avif": "maglev.avif",
+  "webp": "maglev.webp",
+  "w": 1000,
+  "h": 1000,
+  "srcKb": 181,
+  "avifKb": 52
+ },
+ "assets/img/stock/magnatiles.jpg": {
+  "hash": "e511f37c37edf3ec",
+  "avif": "magnatiles.avif",
+  "webp": "magnatiles.webp",
+  "w": 1280,
+  "h": 1280,
+  "srcKb": 581,
+  "avifKb": 65
+ },
+ "assets/img/stock/cashregister.jpg": {
+  "hash": "70c1903d78ea6dd6",
+  "avif": "cashregister.avif",
+  "webp": "cashregister.webp",
+  "w": 400,
+  "h": 400,
+  "srcKb": 36,
+  "avifKb": 10
+ },
+ "assets/img/products/60beb1449034e0.jpg": {
+  "hash": "3904b31cbf4122c5",
+  "avif": "60beb1449034e0.avif",
+  "webp": "60beb1449034e0.webp",
+  "w": 500,
+  "h": 667,
+  "srcKb": 59,
+  "avifKb": 15
+ },
+ "assets/img/products/8508853d335a9d.jpg": {
+  "hash": "09789670941d043c",
+  "avif": "8508853d335a9d.avif",
+  "webp": "8508853d335a9d.webp",
+  "w": 500,
+  "h": 750,
+  "srcKb": 407,
+  "avifKb": 15
+ },
+ "assets/img/products/1c2c57e0a02935.jpg": {
+  "hash": "7eac17792d00e782",
+  "avif": "1c2c57e0a02935.avif",
+  "webp": "1c2c57e0a02935.webp",
+  "w": 500,
+  "h": 750,
+  "srcKb": 448,
+  "avifKb": 17
+ },
+ "assets/img/products/b2600d1cba7292.jpg": {
+  "hash": "bdeea1978fec1f15",
+  "avif": "b2600d1cba7292.avif",
+  "webp": "b2600d1cba7292.webp",
+  "w": 500,
+  "h": 750,
+  "srcKb": 422,
+  "avifKb": 17
+ },
+ "assets/img/products/323dc8bf136323.jpg": {
+  "hash": "7e68a9fe8564e93c",
+  "avif": "323dc8bf136323.avif",
+  "webp": "323dc8bf136323.webp",
+  "w": 500,
+  "h": 700,
+  "srcKb": 546,
+  "avifKb": 27
+ },
+ "assets/img/products/8d41a2e0ba7d45.jpg": {
+  "hash": "f2399b8fab42f514",
+  "avif": "8d41a2e0ba7d45.avif",
+  "webp": "8d41a2e0ba7d45.webp",
+  "w": 500,
+  "h": 700,
+  "srcKb": 385,
+  "avifKb": 14
+ },
+ "assets/img/products/cca737f421800c.jpg": {
+  "hash": "3f386082ecc31541",
+  "avif": "cca737f421800c.avif",
+  "webp": "cca737f421800c.webp",
+  "w": 500,
+  "h": 375,
+  "srcKb": 69,
+  "avifKb": 22
+ },
+ "assets/img/products/8af839d1a062a3.jpg": {
+  "hash": "9c39dda36b223223",
+  "avif": "8af839d1a062a3.avif",
+  "webp": "8af839d1a062a3.webp",
+  "w": 500,
+  "h": 667,
+  "srcKb": 57,
+  "avifKb": 17
+ },
+ "assets/img/zebra.png": {
+  "hash": "7dc2ceba356e2b3f",
+  "avif": "zebra.avif",
+  "webp": "zebra.webp",
+  "w": 1080,
+  "h": 996,
+  "srcKb": 477,
+  "avifKb": 31
+ }
+}
