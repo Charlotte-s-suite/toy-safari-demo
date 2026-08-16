@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# THIS REPO IS PUBLIC. GitHub Pages publishes the repo root, so anything
+# committed here is readable by anyone who guesses the URL.
+# Internal documents live at ~/shmorganism/soma/state/merritt/tenants/toy-safari/
+# — read them from there; never commit one back into this repo.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Internal briefs / pitch + strategy docs (canonical copies live in soma state)
+BRIEF.md
+PITCH.md
+HANDOFF.md
+TEARDOWN.md
+STORE-INVENTORY.md
+DECK-REVISION-V2.md
+DATA-SCHEMA.md
+VALUE-CASE.md
+
+# Build manifests / caches (build-time only, never referenced at runtime)
+.merritt-assets.json
+.codegraph/
+
+# Internal working material: raw scrape data, client source photos,
+# screenshots, toolbox recipes, stale orphaned builds
+scratchpad_raw/
+reference/
+shots/
+library/
+deck.html
+
+# Dev tooling (not client-facing; build_mockup.py / build_pitch.py are STALE
+# and destructive — see soma HANDOFF.md)
+build_catalog_db.py
+build_mockup.py
+build_pitch.py
