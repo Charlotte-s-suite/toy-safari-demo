@@ -1,13 +1,44 @@
-.merritt-assets.json
 # ── This repo is PUBLIC and serves its own root over HTTP. Anything committed here
 # becomes a live URL, not just readable source. Internal documents live in the private
 # merritt-studio repo (docs/tenants/<this-repo>/), never here.
 # Removed 2026-09-03 after a client brief and the fleet manifest were found publicly served.
+
+# ── Internal documents ────────────────────────────────────────────────────────
 BRIEF.md
 HANDOFF.md
 DRIFT.md
 DESIGN.md
 TODO.md
 NOTES.md
+PITCH.md
+TEARDOWN.md
+STORE-INVENTORY.md
+DECK-REVISION-V2.md
+DATA-SCHEMA.md
+VALUE-CASE.md
+
+# ── Fleet machinery (head topology, permissions, comms — not product) ─────────
 ROOM.json
 .hq/
+.claude/settings.local.json
+
+# ── Build manifests / caches (build-time only, never referenced at runtime) ───
+.merritt-assets.json
+.codegraph/
+
+# ── Client-confidential source material ───────────────────────────────────────
+# reference/store-frames/ is 19 in-store photographs taken on the client's premises.
+# We do not hold publication rights to them; they are pitch input, not site assets.
+reference/
+
+# ── Internal working material ─────────────────────────────────────────────────
+scratchpad_raw/
+shots/
+library/
+deck.html
+
+# ── Dev tooling (not client-facing; build_mockup.py / build_pitch.py are STALE
+# and destructive — see the tenant HANDOFF doc before ever running them) ──────
+build_catalog_db.py
+build_mockup.py
+build_pitch.py
