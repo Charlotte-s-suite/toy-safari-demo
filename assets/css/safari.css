@@ -685,3 +685,6 @@ body.mega-open .mega{display:block}
   .ai-banner .aib-cta{width:100%;text-align:center}
   .ai-banner b{font-size:17px}
 }
+
+/* Concept-preview disclosure: what on this mockup is illustrative (prices, stock, some imagery). */
+.concept-strip{background:var(--ink);color:#fff;font:700 13px/1.4 'Nunito',system-ui,sans-serif;text-align:center;padding:7px 14px}
