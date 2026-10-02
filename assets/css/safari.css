@@ -213,7 +213,7 @@ body.mega-open .mega{display:block}
 
 /* ---------- trust strip ---------- */
 .trust{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.trust-row{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;padding:34px 0}
+.trust-row{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:34px 0}
 .trust .t{display:flex;gap:14px;align-items:center}
 .trust .t .e{font-size:30px}
 .trust .t b{font-family:'Fredoka';font-weight:600;font-size:16px;display:block}

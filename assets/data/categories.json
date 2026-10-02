@@ -15,7 +15,7 @@
     { "id": "cards",    "name": "Trading Cards & TCG",      "emoji": "🃏", "tagline": "Pokémon, sports & collectible packs",     "hero": "assets/img/frames/f19.jpg", "order": 12 },
     { "id": "diecast",  "name": "Die-Cast & Vehicles",      "emoji": "🏎️", "tagline": "Hot Wheels, trucks & ride-ons",           "hero": "assets/img/frames/f11.jpg", "order": 13 },
     { "id": "books",    "name": "Children's Books",         "emoji": "📚", "tagline": "Board books to early readers",            "hero": "assets/img/frames/f10.jpg", "order": 14 },
-    { "id": "vault",    "name": "Vintage Vault",            "emoji": "💎", "tagline": "Authenticated collector pieces",          "hero": "assets/img/frames/f07.jpg", "order": 15, "collector": true }
+    { "id": "vault",    "name": "Vintage Vault",            "emoji": "💎", "tagline": "Locked-case collector pieces",          "hero": "assets/img/frames/f07.jpg", "order": 15, "collector": true }
   ],
   "vocab": {
     "interests": ["animals","dinosaurs","space","vehicles","trains","construction","building-blocks","art","music","science","nature","dolls","pretend-play","cooking","dress-up","sports","ocean-sealife","fantasy-magic","superheroes","puzzles","reading","board-games","sensory","coding-robotics","outdoors","trading-cards"],
