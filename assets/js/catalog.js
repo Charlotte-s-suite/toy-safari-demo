@@ -18,7 +18,6 @@
 
   function money(n) { return "$" + Number(n).toLocaleString(undefined, { minimumFractionDigits: (n % 1 ? 2 : 0), maximumFractionDigits: 2 }); }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]; }); }
-  function stars(n) { n = Math.round(n || 5); return "★★★★★".slice(0, n) + "☆☆☆☆☆".slice(0, 5 - n); }
 
   function card(p) {
     var cat = DATA.cats[p.category] || {};
@@ -30,7 +29,6 @@
       age + '<div class="heart">♡</div></div>' +
       '<div class="body"><div class="brand-line">' + esc(p.brand || "Toy Safari") + '</div>' +
       '<h3>' + esc(p.title) + '</h3>' +
-      '<div class="stars"><span class="st">' + stars(p.rating) + '</span> <span>' + (p.rating || 5) + '.0</span> <span style="color:var(--muted)">(' + (p.reviews || 0) + ')</span></div>' +
       '<div class="foot"><div class="price">' + money(p.price) + msrp + '</div><button class="add" aria-label="Add to cart">+</button></div>' +
       '</div></a>';
   }
@@ -96,7 +94,6 @@
       '<div class="ts-md"><div class="pic"><img src="' + esc(BASE + p.image) + '" alt="' + esc(p.title) + '"></div>' +
       '<div class="info"><div class="bl">' + esc(cat.emoji || "") + " " + esc(p.brand || "") + " · " + esc(p.ageLabel || "") + '</div>' +
       '<h2>' + esc(p.title) + '</h2>' +
-      '<div class="stars"><span class="st">' + stars(p.rating) + '</span> <span>' + (p.rating || 5) + '.0 (' + (p.reviews || 0) + ')</span></div>' +
       '<div class="pr">' + money(p.price) + msrp + '</div>' +
       '<p class="d">' + esc(p.description || p.shortDesc || "") + '</p>' +
       (tags ? '<div class="tags">' + tags + '</div>' : '') +
@@ -122,7 +119,6 @@
       ints.forEach(function (i) { if ((p.interests || []).indexOf(i) >= 0) score += 3; if ((p.themes || []).indexOf(i) >= 0) score += 1; });
       sks.forEach(function (s) { if ((p.skills || []).indexOf(s) >= 0) score += 2; });
       (opts.occasions || []).forEach(function (o) { if ((p.giftOccasions || []).indexOf(o) >= 0) score += 1; });
-      score += (p.rating || 5) / 10;
       return { p: p, score: score };
     });
     out.sort(function (a, b) { return b.score - a.score; });
